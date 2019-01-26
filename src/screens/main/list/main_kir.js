@@ -6,3 +6,7 @@ $$('.main-button.left').onclick = () => {
   $$('body').innerHTML = '';
   inner($$('body'), template);
 };
+$$('.list-poets').onclick = () => {
+  $$('body').innerHTML = '';
+  inner($$('body'), template);
+}
