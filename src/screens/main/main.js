@@ -4,6 +4,10 @@ import './main.css';
 
 inner($$('body'), template);
 
+$$('.search-string').onblur = () => {
+  $$('.search-string').value = '';
+}
+
 $$('.active-lang').onclick = () => {
   $$('.languages').style.display = 'block';
 };
