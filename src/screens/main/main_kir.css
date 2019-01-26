@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #fff;
+}
+.logo{
+  display: block;
+  width: 400px;
+  height: 400px;
+  background: url('../../assets/logo/Logo-min.png') no-repeat;
+}
+body::before{
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-image: url(../../assets/logo/bg.png);
+  position: fixed;
+  opacity: 0.2;
+}
+.content{
+  width: 75%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.lists-content{
+  
+}
