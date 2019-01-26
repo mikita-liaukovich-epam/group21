@@ -5,13 +5,14 @@
 body{
   background-color: #fff;
 }
-.logo{
+div.logotype{
   display: block;
   width: 400px;
   height: 150px;
   background: url('../../../assets/logo/Logo-min.png') no-repeat;
+  margin: 0 auto;
 }
-body::before{
+.lists-container::before{
   content: '';
   width: 100%;
   height: 100%;
@@ -19,14 +20,14 @@ body::before{
   position: fixed;
   opacity: 0.2;
 }
-.content{
+main.content{
   position: relative;
   display: flex;
   flex-flow: wrap;
   justify-content: space-evenly;
   width: 75%;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.5);
   min-height: 400px;
   margin-bottom: 20px;
 }
