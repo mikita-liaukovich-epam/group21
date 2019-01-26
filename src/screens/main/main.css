@@ -4,6 +4,12 @@ body {
   font-family: Segoe UI, sans-serif;
 }
 
+h1 {
+  position: absolute;
+  top: -140px;
+  color: transparent
+}
+
 .container {
   width: 1100px;
   position: relative;
@@ -136,4 +142,101 @@ nav a:hover {
 
 .languages img {
   margin-bottom: 5px;
+}
+
+.second-page {
+  height: 560px;
+}
+
+.about-us {
+  margin-top: 100px;
+  padding: 15px;
+  width: 55%;
+  border: 2.5px solid black;
+  background: white;
+}
+
+h2 {
+  margin-top: -60px;
+  font-weight: 400;
+}
+
+.author-of-the-day {
+  position: absolute;
+  top: 210px;
+  right: 0;
+  width: 55%;
+  height: 218px;
+  padding: 15px;
+  float: right;
+  background: white;
+  border: 2.5px solid black;
+}
+
+.author-of-the-day h2 {
+  text-align: right;
+}
+
+.author-of-the-day img {
+  margin: 15px;
+  height: 200px;
+  float: left;
+}
+
+.author-of-the-day blockquote {
+  float: right;
+  width: 55%;
+  margin: 15px 10px 75px 0;
+}
+
+.author-of-the-day cite {
+  text-align: right;
+  float: right;
+}
+
+.backg-decor {
+  position: absolute;
+  z-index: -10;
+  top: 30px;
+  left: calc(50% - 200px);
+  filter: blur(4px);
+}
+
+.backg-decor img{
+  position: absolute;
+  transform: scale(0.8);
+  left: 90px;
+
+}
+
+.backg-decor img:first-child {
+  left: -90px;
+  top: 203px;
+}
+
+footer {
+  height: 200px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+footer p {
+  position: absolute;
+  margin: 0;
+  width: 250px;
+  left: calc(50% - 125px);
+}
+
+footer hr {
+  background: black;
+  height: 2px;
+  margin-bottom: 50px;
+}
+
+.RSS-logo {
+  float: left;
+}
+
+.RS-logo {
+  float: right;
 }
