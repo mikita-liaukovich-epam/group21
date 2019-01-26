@@ -1,7 +1,7 @@
 {
-  "name": "game",
+  "name": "CodeJam-Culture-Portal",
   "version": "0.0.1",
-  "description": "the Rolling Scopes School task game",
+  "description": "the Rolling Scopes School CJ Culture Portal",
   "main": "index.js",
   "scripts": {
     "lint": "eslint -c .eslintrc.js ./src/**/*.js",

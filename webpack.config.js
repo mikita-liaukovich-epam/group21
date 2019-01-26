@@ -28,7 +28,7 @@ module.exports = {
       filename: 'index.html'
     }),
     new CopyWebpackPlugin([
-      { from: './assets', to: './assets' }
+      { from: './src/assets', to: './assets' }
     ]),
   ],
   output: {

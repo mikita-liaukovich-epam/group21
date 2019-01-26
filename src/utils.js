@@ -7,6 +7,7 @@ export const addAttr = (el, attrs) => {
 export const addClass = (el, className) => (el.classList.add(className), el);
 export const append = (parent, child) => (parent.appendChild(child), parent);
 export const create = el => document.createElement(el);
+export const getByClass = el => document.getElementsByClassName(el);
 export const inner = (el, text) => (el.innerHTML += text, el);
 export const pause = time => new Promise(resolve => {
   setTimeout(() => {
