@@ -1,5 +1,6 @@
 export default `
-<div class="logo"></div>
+<div class="lists-container">
+  <div class="logotype"></div>
   <main class = 'content'>
   <section class = 'list'>
       <h3>Б</h3>
@@ -34,4 +35,5 @@ export default `
       </ul>
     </section>
   </main>
+</div>
 `
