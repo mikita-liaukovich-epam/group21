@@ -9,8 +9,8 @@ export default `
         <img src="./assets/RUS.png" alt="Russian language" class="rus">
       </div>
       <nav>
-          <a href="#">List of poets</a>
-          <a href="#about-us">About Us</a>
+          <a class='list-poets'>List of poets</a>
+          <a href="#about">About Us</a>
           <a href="#author-of-the-day">Author of the Day</a>
           <a href="#">Contacts</a>
         </nav>

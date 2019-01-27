@@ -29,7 +29,7 @@ h1 {
   content: '';
   width: 100%;
   height: 100%;
-  background: url(./assets/background.png);
+  background: url(../../assets/logo/bg.png);
   opacity: 0.2;
   z-index: -99;
 }
@@ -121,6 +121,7 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
 
 .active-lang {
