@@ -2,6 +2,7 @@ export default `
 <div class="lists-container">
   <div class="logotype"></div>
   <main class = 'content'>
+  <a class = "close"> &#8592;Back</a>
   <section class = 'list'>
       <h3>Б</h3>
       <ul class="first">

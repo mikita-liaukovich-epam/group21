@@ -31,6 +31,21 @@ main.content{
   min-height: 400px;
   margin-bottom: 20px;
 }
+.close{
+  position: absolute;
+  left: 5px;
+  top: 2px;
+  display: inline-block;
+  height: 25px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+}
+.close:hover{
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
 .list{
   display: flex;
   flex-direction: column;
@@ -38,7 +53,7 @@ main.content{
   width: 25%;
   height: max-content;
   min-height: 100px;
-  margin: 3% 0;
+  margin: 5% 0;
 }
 .first {
   width: 80%;
@@ -47,7 +62,7 @@ main.content{
 }
 .first li {
   padding: 10px 30px;
-  background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+  background: linear-gradient(to left, #6d6967 0%, white, #908986);
   border-bottom: 1px solid grey;
   color: #506a6b;
   font-size: 20px;
@@ -56,3 +71,7 @@ main.content{
   text-align: center;
 }
 .first li:last-child {border-bottom: none;}
+.first li a{
+  text-decoration: none;
+  color: #000;
+}
