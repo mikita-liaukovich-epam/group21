@@ -1,86 +1,54 @@
-{"kolas":{
-    "name":{
-        "ru": "Якуб Колос",
-        "eng": "Yakub Kolas",
-        "bel": "Якуб Колас"
+{  
+    "kolas":{  
+       "name":{  
+          "ru":"Якуб Колос",
+          "eng":"Yakub Kolas",
+          "bel":"Якуб Колас"
+       },
+       "quote":{  
+          "ru":"У человека нет ничего лучше и дороже чем родина. Человек без родины - бедный человек",
+          "eng":"A person has nothing better and more precious than a homeland. A man without a homeland is a poor man",
+          "bel":"Няма ў чалавека нічога прыгажэй і даражэй за радзіму. Чалавек без радзімы ‒ бедны чалавек"
+       },
+       "biography":{  
+          "firstData":"1906-1914",
+          "firstText":{  
+             "ru":"Родился 22 октября 1882 года в деревне Акинчицы в семье лесника Михася Мицкевича. Окончил народную школу, в 1902 году — Несвижскую учительскую семинарию. Работал учителем на Пинщине (1902—1906).",
+             "eng":"He was born on October 22, 1882 in the village of Akinchitsy in the family of forester Mikhas Mitskevich. He graduated from the public school, in 1902 - Nesvizh teacher's seminary. He worked as a teacher in Pinchine (1902-1906).",
+             "bel":"Нарадзіўся 22 кастрычніка 1882 года ў вёсцы Акінчыцы ў сям'і лесніка Міхася Міцкевіча. Скончыў народную школу, у 1902 году - Нясвіжскую настаўніцкую семінарыю. Працаваў настаўнікам на Піншчыне (1902-1906)."
+          },
+          "secondData":"1906-1914",
+          "secondtText":{  
+             "ru":"В 1906 году первая публикация — стихотворение «Край родимый» в белорусской газете «Наша доля». За участие в организации нелегального учительского съезда был приговорён к заключению, которое отбывал в минской тюрьме (1908—1911). В 1912—1914 годах учительствовал в Пинске, здесь у него родился его старший сын Даниил, который впоследствии стал создателем и первым директором музея своего отца",
+             "eng":"In 1906, the first publication was the poem “The Land of the Motherland” in the Belarusian newspaper Our Share. For participation in organizing an illegal teacher's congress, he was sentenced to imprisonment, who was serving time in a Minsk prison (1908–1911). In 1912–1914, a teacher in Pinsk, here he was born his eldest son, Daniel, who later became the founder and first director of his father’s museum",
+             "bel":"У 1906 году першая публікацыя - верш «Край родны» у беларускай газеце «Наша доля». За ўдзел у арганізацыі нелегальнага настаўніцкага з'езда быў асуджаны да зняволення, якое адбываў у менскай турме (1908-1911). У 1912-1914 гадах настаўнічаў у Пінску, тут у яго нарадзіўся яго старэйшы сын Данііл, які пасля стаў стваральнікам і першым дырэктарам музея свайго бацькі"
+          },
+          "thirdData":"1915-1918",
+          "thirdText":{  
+             "ru":"В 1915 году эвакуировался вместе с семьёй в Подмосковье, работал учителем в Дмитровском уезде. В этом же году мобилизован в армию. Окончил Александровское военное училище (Москва, 1916) и служил в запасном полку в Перми. В это время его семья переехала в Обоянь (Курская губерния). В звании подпоручика летом 1917 года был отправлен на Румынский фронт. После демобилизации (1918) работал учителем в городе Обоянь",
+             "eng":"In 1915 he was evacuated with his family in the Moscow region, worked as a teacher in the Dmitrov district. In the same year, mobilized into the army. He graduated from the Alexander Military School (Moscow, 1916) and served in the reserve regiment in Perm. At this time, his family moved to Oboyan (Kursk Province). In the rank of second lieutenant in the summer of 1917 he was sent to the Romanian front. After demobilization (1918) he worked as a teacher in the city of Oboyan",
+             "bel":"У 1915 г. эвакуіраваўся разам з сям'ёй у Падмаскоўі, працаваў настаўнікам у Дзмітраўскім павеце. У гэтым жа годзе мабілізаваны ў войска. Скончыў Аляксандраўскае ваеннае вучылішча (Масква, 1916) і служыў у запасным палку ў Пермі. У гэты час яго сям'я пераехала ў Абаянь (Курская губерня). У званні падпаручніка ўлетку 1917 года быў адпраўлены на Румынскі фронт. Пасля дэмабілізацыі (1918) працаваў настаўнікам у горадзе Абаянь"
+          },
+          "fourthData":"1921-1944",
+          "fourthText":{  
+             "ru":"В мае 1921 года переехал в Минск. В дальнейшем занимался творческой и научной деятельностью. Академик (1928), с 1929 года — вице-президент Академии наук БССР, депутат ВС БССР (1938—1956). В годы Великой Отечественной войны в эвакуации в Подмосковье, Ташкенте, Москве.",
+             "eng":"In May 1921 he moved to Minsk. In the future, engaged in creative and scientific activities. Academician (1928), since 1929 - Vice-President of the Academy of Sciences of the BSSR, deputy of the Supreme Council of the BSSR (1938-1956). During the Great Patriotic War in the evacuation in the Moscow region, Tashkent, Moscow.",
+             "bel":"У траўні 1921 года пераехаў у Мінск. У далейшым займаўся творчай і навуковай дзейнасцю. Акадэмік (1928), з 1929 году - віцэ-прэзідэнт Акадэміі навук БССР, дэпутат ВС БССР (1938-1956). У гады Вялікай Айчыннай вайны ў эвакуацыі ў Падмаскоўі, Ташкенце, Маскве."
+          },
+          "fivethData":"1945-1956",
+          "fivethText":{  
+             "ru":"В 1944 году вернулся в Минск. Депутат ВС СССР (1946—1956), председатель Белорусского республиканского комитета защиты мира. Один из редакторов академического «Русско-белорусского словаря» (1953). В конце жизни много и часто болел, в частности, перенёс 26 воспалений легких. Якуб Колас скоропостижно скончался 13 августа 1956 года. Похоронен на Военном кладбище в Минске[3].",
+             "eng":"In 1944 he returned to Minsk. Deputy of the Supreme Soviet of the USSR (1946-1956), chairman of the Belarusian Republican Committee for the Protection of Peace. One of the editors of the academic Russian-Belarusian Dictionary (1953). At the end of his life, he suffered a lot and often, in particular, suffered 26 pneumonia. Yakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk",
+             "bel":"У 1944 годзе вярнуўся ў Мінск. Дэпутат ВС СССР (1946-1956), старшыня Беларускага рэспубліканскага камітэта абароны міру. Адзін з рэдактараў акадэмічнага «Руска-беларускага слоўніка» (1953). У канцы жыцця шмат і часта хварэў, у прыватнасці, перанёс 26 запаленняў лёгкіх. Якуб Колас раптоўна памёр 13 жніўня 1956 году. Пахаваны на Вайсковых могілках у Мінску"
+          }
+       },
+       "works":{  
+          "firstBlock":"Зборнікі вершаў Песьні жальбы (1910) Водгульле (1922) Нашы дні (1937) Адпомсьцім (1942) Голас зямлі (1943)  Мой дом (1946) Жыве між нас геній (1952)",
+          "secondBlock":"Паэмы «Прапаў чалавек» (1913) «Новая зямля» (1923) «Сымон-музыка» (1925) «Суд у лесе» (1943) «Адплата» (1946) «Рыбакова хата» (1947)",
+          "thirdBlock":"Зборнікі апавяданьняў Апаведаньня. (1912) «Тоўстае палена» (1913) «Нёманаў дар» (1913) «Казкі жыцьця» (1921) «У ціхай вадзе» (1925)«Крок за крокам» (1925) «На рубяжы» (1925)",
+          "fourth":"Аповесьці«У палескай глушы» (1923) «На прасторах жыцьця» (1926)«У глыбі Палесься» (1927)«Адшчапенец» (1932) «Дрыгва» (1934)"
+       }
     },
-    "quote":{
-        "ru": "У человека нет ничего лучше и дороже чем родина. Человек без родины - бедный человек",
-        "eng": "A person has nothing better and more precious than a homeland. A man without a homeland is a poor man",
-        "bel": "Няма ў чалавека нічога прыгажэй і даражэй за радзіму. Чалавек без радзімы ‒ бедны чалавек"
-    },
-    "biography": {
-        "firstData": "1906-1914",
-        "firstText":{
-            "ru": "Родился 22 октября 1882 года в деревне Акинчицы в семье лесника Михася Мицкевича. Окончил народную школу, в 1902 году — Несвижскую учительскую семинарию. Работал учителем на Пинщине (1902—1906).",
-            "eng": "He was born on October 22, 1882 in the village of Akinchitsy in the family of forester Mikhas Mitskevich. He graduated from the public school, in 1902 - Nesvizh teacher's seminary. He worked as a teacher in Pinchine (1902-1906).",
-            "bel": "Нарадзіўся 22 кастрычніка 1882 года ў вёсцы Акінчыцы ў сям'і лесніка Міхася Міцкевіча. Скончыў народную школу, у 1902 году - Нясвіжскую настаўніцкую семінарыю. Працаваў настаўнікам на Піншчыне (1902-1906)."
-        },
-        "secondData": "1906-1914",
-        "secondtText":{
-            "ru": "В 1906 году первая публикация — стихотворение «Край родимый» в белорусской газете «Наша доля». За участие в организации нелегального учительского съезда был приговорён к заключению, которое отбывал в минской тюрьме (1908—1911). В 1912—1914 годах учительствовал в Пинске, здесь у него родился его старший сын Даниил, который впоследствии стал создателем и первым директором музея своего отца",
-            "eng": "In 1906, the first publication was the poem “The Land of the Motherland” in the Belarusian newspaper Our Share. For participation in organizing an illegal teacher's congress, he was sentenced to imprisonment, who was serving time in a Minsk prison (1908–1911). In 1912–1914, a teacher in Pinsk, here he was born his eldest son, Daniel, who later became the founder and first director of his father’s museum",
-            "bel": "У 1906 году першая публікацыя - верш «Край родны» у беларускай газеце «Наша доля». За ўдзел у арганізацыі нелегальнага настаўніцкага з'езда быў асуджаны да зняволення, якое адбываў у менскай турме (1908-1911). У 1912-1914 гадах настаўнічаў у Пінску, тут у яго нарадзіўся яго старэйшы сын Данііл, які пасля стаў стваральнікам і першым дырэктарам музея свайго бацькі"
-        },
-        "thirdData": "1915-1918",
-        "thirdText":{
-            "ru": "В 1915 году эвакуировался вместе с семьёй в Подмосковье, работал учителем в Дмитровском уезде. В этом же году мобилизован в армию. Окончил Александровское военное училище (Москва, 1916) и служил в запасном полку в Перми. В это время его семья переехала в Обоянь (Курская губерния). В звании подпоручика летом 1917 года был отправлен на Румынский фронт. После демобилизации (1918) работал учителем в городе Обоянь",
-            "eng": "In 1915 he was evacuated with his family in the Moscow region, worked as a teacher in the Dmitrov district. In the same year, mobilized into the army. He graduated from the Alexander Military School (Moscow, 1916) and served in the reserve regiment in Perm. At this time, his family moved to Oboyan (Kursk Province). In the rank of second lieutenant in the summer of 1917 he was sent to the Romanian front. After demobilization (1918) he worked as a teacher in the city of Oboyan",
-            "bel": "У 1915 г. эвакуіраваўся разам з сям'ёй у Падмаскоўі, працаваў настаўнікам у Дзмітраўскім павеце. У гэтым жа годзе мабілізаваны ў войска. Скончыў Аляксандраўскае ваеннае вучылішча (Масква, 1916) і служыў у запасным палку ў Пермі. У гэты час яго сям'я пераехала ў Абаянь (Курская губерня). У званні падпаручніка ўлетку 1917 года быў адпраўлены на Румынскі фронт. Пасля дэмабілізацыі (1918) працаваў настаўнікам у горадзе Абаянь"
-        },
-        "fourthData": "1921-1944",
-        "fourthText":{
-            "ru": "В мае 1921 года переехал в Минск. В дальнейшем занимался творческой и научной деятельностью. Академик (1928), с 1929 года — вице-президент Академии наук БССР, депутат ВС БССР (1938—1956). В годы Великой Отечественной войны в эвакуации в Подмосковье, Ташкенте, Москве.",
-            "eng": "In May 1921 he moved to Minsk. In the future, engaged in creative and scientific activities. Academician (1928), since 1929 - Vice-President of the Academy of Sciences of the BSSR, deputy of the Supreme Council of the BSSR (1938-1956). During the Great Patriotic War in the evacuation in the Moscow region, Tashkent, Moscow.",
-            "bel": "У траўні 1921 года пераехаў у Мінск. У далейшым займаўся творчай і навуковай дзейнасцю. Акадэмік (1928), з 1929 году - віцэ-прэзідэнт Акадэміі навук БССР, дэпутат ВС БССР (1938-1956). У гады Вялікай Айчыннай вайны ў эвакуацыі ў Падмаскоўі, Ташкенце, Маскве.",
-        },
-        "fivethData": "1945-1956",
-        "fivethText":{
-            "ru": "В 1944 году вернулся в Минск. Депутат ВС СССР (1946—1956), председатель Белорусского республиканского комитета защиты мира. Один из редакторов академического «Русско-белорусского словаря» (1953). В конце жизни много и часто болел, в частности, перенёс 26 воспалений легких. Якуб Колас скоропостижно скончался 13 августа 1956 года. Похоронен на Военном кладбище в Минске[3].",
-            "eng": "In 1944 he returned to Minsk. Deputy of the Supreme Soviet of the USSR (1946-1956), chairman of the Belarusian Republican Committee for the Protection of Peace. One of the editors of the academic Russian-Belarusian Dictionary (1953). At the end of his life, he suffered a lot and often, in particular, suffered 26 pneumonia. Yakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk",
-            "bel": "У 1944 годзе вярнуўся ў Мінск. Дэпутат ВС СССР (1946-1956), старшыня Беларускага рэспубліканскага камітэта абароны міру. Адзін з рэдактараў акадэмічнага «Руска-беларускага слоўніка» (1953). У канцы жыцця шмат і часта хварэў, у прыватнасці, перанёс 26 запаленняў лёгкіх. Якуб Колас раптоўна памёр 13 жніўня 1956 году. Пахаваны на Вайсковых могілках у Мінску"
-        }
-    },
-    "works":{
-        "firstBlock":
-            "Зборнікі вершаў
-            «Песьні жальбы» (1910)
-            «Водгульле» (1922)
-            «Нашы дні» (1937)
-            «Адпомсьцім» (1942)
-            «Голас зямлі» (1943)
-            «Мой дом» (1946)
-            «Жыве між нас геній» (1952)",
-        "secondBlock":
-            "Паэмы
-            «Прапаў чалавек» (1913)
-            «Новая зямля» (1923)
-            «Сымон-музыка» (1925)
-            «Суд у лесе» (1943)
-            «Адплата» (1946)
-            «Рыбакова хата» (1947)",
-        "thirdBlock":
-            "Зборнікі апавяданьняў
-            Апаведаньня. (1912)
-            «Тоўстае палена» (1913)
-            «Нёманаў дар» (1913)
-            «Казкі жыцьця» (1921)
-            «У ціхай вадзе» (1925)
-            «Крок за крокам» (1925)
-            «На рубяжы» (1925)",
-        "fourth":
-            "Аповесьці
-            «У палескай глушы» (1923)
-            «На прасторах жыцьця» (1926)
-            «У глыбі Палесься» (1927)
-            «Адшчапенец» (1932)
-            «Дрыгва» (1934)",
-        }
-    },
-
-    "video": "https://www.youtube.com/embed/FRfHUhw9KkI",
-    "map": "https://maps.google.com/maps?q=stolbcy&t=&z=9&ie=UTF8&iwloc=&output=embed",
-    
-     
-
-}
+    "video":"https://www.youtube.com/embed/FRfHUhw9KkI",
+    "map":"https://maps.google.com/maps?q=stolbcy&t=&z=9&ie=UTF8&iwloc=&output=embed"
+ }
