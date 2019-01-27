@@ -1,6 +1,6 @@
-import { $$, inner } from '../../../utils';
+import { $$, inner } from '../../utils';
 import template from './main_kir.template';
-import templateMain from '../main.template';
+import templateMain from '../main/main.template';
 import './main_kir.css';
 
 $$('body').addEventListener('click', e => {
