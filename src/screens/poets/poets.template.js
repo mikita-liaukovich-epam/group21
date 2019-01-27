@@ -1,13 +1,13 @@
 import poets from "./poets.json";
 
-export function showModalVideo(poet){
-  let modal = document.body.querySelector('.modal');
-  modal.style.display = "flex";
-  modal.innerHTML = `
-    <div class="close_modal" onclick="this.parentNode.style.display='none';this.parentNode.innerHTML=''"></div>
-    <iframe src=" ${poets[poet].video}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  `
-}
+// export function showModalVideo(poet){
+//   let modal = document.body.querySelector('.modal');
+//   modal.style.display = "flex";
+//   modal.innerHTML = `
+//     <div class="close_modal" onclick="this.parentNode.style.display='none';this.parentNode.innerHTML=''"></div>
+//     <iframe src="${poets[poet].video}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+//   `
+// }
 
 export function getTemplate(poet){
   let lang = localStorage.getItem('currLang') || 'rus';
@@ -140,7 +140,7 @@ export function getTemplate(poet){
 
   <section class="main__video">
   <a name="video"></a>
-    <img id="video_button" src="assets/${poet}/${poets[poet].images[8]}">
+    <img id="youtube" src="assets/${poet}/${poets[poet].images[8]}" ytsrc="${poets[poet].video}">
     
   </section>
 
