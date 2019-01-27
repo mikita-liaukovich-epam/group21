@@ -3,7 +3,7 @@
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
         "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
-        "bel":["Главная", "Биография", "Галерея", "Творчество", "Видео"]
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
            "kolas.jpg"
@@ -71,6 +71,155 @@
         ],
         "video":"https://www.youtube.com/embed/FRfHUhw9KkI",
         "map":"https://maps.google.com/maps?q=stolbcy&t=&z=9&ie=UTF8&iwloc=&output=embed"
+    },
+
+    "kupala":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "kupala.jpg"
+       ],
+       "name":{  
+          "rus":"Янка Купала",
+          "eng":"Yanka Kupala",
+          "bel":"Янка Купала"
+       },
+       "quote":{  
+          "rus":"Не ищи ты счастья доли, на чужом, далеком поле",
+          "eng":"Do not look for you  happiness, in a strange, distant field",
+          "bel":"Не шукай ты шчасця, долі. На чужым, далёкім полі"
+       },
+       "biography":{  
+          "firstData":"1882-1902",
+          "firstText":{  
+             "rus":"Родился 25 июня 1882 года в деревне Вязынка в белорусской католической семье Доминика Онуфриевича Луцевича и Бенигны Ивановны Луцевич Родители были обедневшие белорусские шляхтичи, арендовавшие земли в помещичьих угодьях. Род Луцевичей известен с начала семнадцатого века. Там же познакомился с будущей женой - Владислав Станкевич. ",
+             "eng":"Born on June 25, 1882 in the village of Vyazinka in the Belarusian Catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich. Parents were impoverished Belarusian gentry, to lease land in the landlords' land. Rhode Lutsevich known since the beginning of the seventeenth century. There he met his future wife - Vladislav Stankevich.",
+             "bel":"Нарадзіўся 25 чэрвеня 1882 года ў вёсцы Вязынка ў беларускай каталіцкай сям'і Дамініка Ануфрыевіча Луцэвіча і Бянігна Іванаўна Луцэвіч. Бацькі былі збяднелыя беларускія шляхцічы, арандавалі зямлі ў памешчыцкіх угоддзях. Род Луцэвічаў вядомы з пачатку семнаццатага стагоддзя."
+          },
+          "secondData":"1902-1909",
+          "secondText":{  
+             "rus":"После смерти отца в 1902 году работал домашним учителем, писарем в помещичьем имении. В 1898 году закончил народное училище в местечке Беларуч. В 1908—1909 годы жил в Вильне, где работал в редакции первой белорусской газеты «Наша Ніва».",
+             "eng":"After his father's death in 1902, he worked as a tutor, a clerk in the landed estates. In 1898 he graduated from public school in the town Belaruch. In 1908-1909 he lived in Vilna, where he worked in the editorial board of the first Belarusian newspaper Nasha Niva",
+             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+          },
+          "thirdData":"1909-1913",
+          "thirdText":{  
+             "rus":"В 1909—1913 годах начинающий поэт учился в Санкт-Петербурге на подготовительных общеобразовательных курсах А.Черняева, затем в 1915 году проучился в Московском городском народном университете, который был основан на средства известного в Российской империи золотопромышленника и мецената Альфонса Леоновича Шанявского и его жены в 1908 году; университет находился в Москве и носил имя мецената.",
+             "eng":"In 1909-1913, an aspiring poet, studied in St. Petersburg at the preparatory education courses A.Chernyaeva, then in 1915 he studied at the Moscow city representatives of the People's University, which was founded by the famous Russian Empire Gold Mining and patrons Leonovich Shanyavsky Alfonso and his wife 1908; University was in Moscow, and bore the name of patrons.",
+             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+          },
+          "fourthData":"1913-1916",
+          "fourthText":{  
+             "rus":"Янка Купала поступил в народный университет в сентябре, однако его намерениям продолжить учёбу помешала всеобщая мобилизация, объявленная в связи с наступлением Первой мировой войны. Уже в начале 1916 года поэта-студента призвали в армию и тот поступил в дорожно-строительный отряд, в составе которого работал вплоть до наступления событий Октябрьской революции.",
+             "eng":"Yanka Kupala entered the People's University in September, but his intention to continue his studies prevented the general mobilization declared in connection with the onset of the First World War. At the beginning of 1916, a student of the poet called in the army and he entered the road construction team, which worked until the occurrence of the events of the October Revolution.",
+             "bel":"Янка Купала паступіў у народны ўніверсітэт у верасні, аднак яго намерам працягнуць вучобу перашкодзіла ўсеагульная мабілізацыя, аб'яўленая ў сувязі з надыходам Першай сусветнай вайны. Ужо ў пачатку 1916 года паэта-студэнта прызвалі ў армію і той паступіў у дарожна-будаўнічы атрад, у складзе якога працаваў аж да наступлення падзей Кастрычніцкай рэвалюцыі."
+          },
+          "fivethData":"1945-1956",
+          "fivethText":{  
+             "rus":"В 1919 году он переезжает в Минск. 1930 году Янка Купала предпринял попытку самоубийства, однако жена спасла его от гибели. 28 июня 1942 года, за несколько дней до своего 60-летия, поэт трагически погиб в Москве",
+             "eng":"In 1919 he moved to Minsk. 1930 Yanka Kupala attempted suicide, but his wife had saved him from death. June 28, 1942, a few days before his 60th birthday, the poet died tragically in Moscow",
+             "bel":"У 1919 годзе ён пераязджае ў Менск. 1930 год Янка Купала зрабіў спробу самагубства, аднак жонка выратаваў яго ад пагібелі. 28 чэрвеня 1942 г., за некалькі дзён да свайго 60-годдзя, паэт трагічна загінуў у Маскве"
+          }
+        },
+        "works":{  
+          "firstBlock": "<span> Сборники стихов </span> «Жалейка» (1908)<br> «Гусляр» (1910); <br> «Дорогой жизни» (1913)<br> «Наследие» (1922)<br> «Безымянное» (1925)<br> «Отцветание» (1930)<br> «Песня строительству»",
+          "secondBlock":"<span>  Поэмы </span> «Зимой» (1907)<br> «Никому» (1907)<br> «Калека» (1907)<br> «Расплата любовью» (1907)<br> «В Пилиповку» (1908)<br> «За что?» (1908)<br> «Извечная песня» (1908)<br> «Курган» (1910)",
+          "thirdBlock":"<span> Пьесы  </span> «Павлинка» (1912)<br> «Примаки» (1913)<br> «Раскиданное гнездо» (1913)<br> «Здешние» (1922)",
+          "fourthBlock":"<span> Аповесьці </span> «У палескай глушы» (1923) <br> «На прасторах жыцьця» (1926)<br> «У глыбі Палесься» (1927) <br> «Адшчапенец» (1932) <br> «Дрыгва» (1934)"
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"https://www.youtube.com/embed/9FZehV2qJTk",
+        "map":"https://maps.google.com/maps?q=Vyazanka&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+
+    "korotkevich":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "korotkevich.jpg"
+       ],
+       "name":{  
+          "rus":"Владимир Короткевич",
+          "eng":"Vladimir Korotkevich",
+          "bel":"Уладзiмир Карткевiч"
+       },
+       "quote":{  
+          "rus":"Проиграть не унижение. Унижение - смеяться над тем, кто мужественно проиграл.",
+          "eng":"Losіng is not  humiliation. Humiliation - to laugh at those who bravely lost.",
+          "bel": "Прайграць не прыніжэнне. Прыніжэнне — кпіць з таго, хто мужна прайграў"
+       },
+       "biography":{  
+          "firstData":"1882-1902",
+          "firstText":{  
+             "rus":"Родился 25 июня 1882 года в деревне Вязынка в белорусской католической семье Доминика Онуфриевича Луцевича и Бенигны Ивановны Луцевич Родители были обедневшие белорусские шляхтичи, арендовавшие земли в помещичьих угодьях. Род Луцевичей известен с начала семнадцатого века. Там же познакомился с будущей женой - Владислав Станкевич. ",
+             "eng":"Born on June 25, 1882 in the village of Vyazinka in the Belarusian Catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich. Parents were impoverished Belarusian gentry, to lease land in the landlords' land. Rhode Lutsevich known since the beginning of the seventeenth century. There he met his future wife - Vladislav Stankevich.",
+             "bel":"Нарадзіўся 25 чэрвеня 1882 года ў вёсцы Вязынка ў беларускай каталіцкай сям'і Дамініка Ануфрыевіча Луцэвіча і Бянігна Іванаўна Луцэвіч. Бацькі былі збяднелыя беларускія шляхцічы, арандавалі зямлі ў памешчыцкіх угоддзях. Род Луцэвічаў вядомы з пачатку семнаццатага стагоддзя."
+          },
+          "secondData":"1902-1909",
+          "secondText":{  
+             "rus":"После смерти отца в 1902 году работал домашним учителем, писарем в помещичьем имении. В 1898 году закончил народное училище в местечке Беларуч. В 1908—1909 годы жил в Вильне, где работал в редакции первой белорусской газеты «Наша Ніва».",
+             "eng":"After his father's death in 1902, he worked as a tutor, a clerk in the landed estates. In 1898 he graduated from public school in the town Belaruch. In 1908-1909 he lived in Vilna, where he worked in the editorial board of the first Belarusian newspaper Nasha Niva",
+             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+          },
+          "thirdData":"1909-1913",
+          "thirdText":{  
+             "rus":"В 1909—1913 годах начинающий поэт учился в Санкт-Петербурге на подготовительных общеобразовательных курсах А.Черняева, затем в 1915 году проучился в Московском городском народном университете, который был основан на средства известного в Российской империи золотопромышленника и мецената Альфонса Леоновича Шанявского и его жены в 1908 году; университет находился в Москве и носил имя мецената.",
+             "eng":"In 1909-1913, an aspiring poet, studied in St. Petersburg at the preparatory education courses A.Chernyaeva, then in 1915 he studied at the Moscow city representatives of the People's University, which was founded by the famous Russian Empire Gold Mining and patrons Leonovich Shanyavsky Alfonso and his wife 1908; University was in Moscow, and bore the name of patrons.",
+             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+          },
+          "fourthData":"1913-1916",
+          "fourthText":{  
+             "rus":"Янка Купала поступил в народный университет в сентябре, однако его намерениям продолжить учёбу помешала всеобщая мобилизация, объявленная в связи с наступлением Первой мировой войны. Уже в начале 1916 года поэта-студента призвали в армию и тот поступил в дорожно-строительный отряд, в составе которого работал вплоть до наступления событий Октябрьской революции.",
+             "eng":"Yanka Kupala entered the People's University in September, but his intention to continue his studies prevented the general mobilization declared in connection with the onset of the First World War. At the beginning of 1916, a student of the poet called in the army and he entered the road construction team, which worked until the occurrence of the events of the October Revolution.",
+             "bel":"Янка Купала паступіў у народны ўніверсітэт у верасні, аднак яго намерам працягнуць вучобу перашкодзіла ўсеагульная мабілізацыя, аб'яўленая ў сувязі з надыходам Першай сусветнай вайны. Ужо ў пачатку 1916 года паэта-студэнта прызвалі ў армію і той паступіў у дарожна-будаўнічы атрад, у складзе якога працаваў аж да наступлення падзей Кастрычніцкай рэвалюцыі."
+          },
+          "fivethData":"1945-1956",
+          "fivethText":{  
+             "rus":"В 1919 году он переезжает в Минск. 1930 году Янка Купала предпринял попытку самоубийства, однако жена спасла его от гибели. 28 июня 1942 года, за несколько дней до своего 60-летия, поэт трагически погиб в Москве",
+             "eng":"In 1919 he moved to Minsk. 1930 Yanka Kupala attempted suicide, but his wife had saved him from death. June 28, 1942, a few days before his 60th birthday, the poet died tragically in Moscow",
+             "bel":"У 1919 годзе ён пераязджае ў Менск. 1930 год Янка Купала зрабіў спробу самагубства, аднак жонка выратаваў яго ад пагібелі. 28 чэрвеня 1942 г., за некалькі дзён да свайго 60-годдзя, паэт трагічна загінуў у Маскве"
+          }
+        },
+        "works":{  
+          "firstBlock": "<span>Зборнікі вершаў </span> Песьні жальбы (1910)<br> Водгульле (1922)<br> Нашы дні (1937)<br> Адпомсьцім (1942)<br> Голас зямлі (1943)<br>  Мой дом (1946)<br> Жыве між нас геній (1952)",
+          "secondBlock":"<span> Паэмы </span> «Прапаў чалавек» (1913)<br> «Новая зямля» (1923)<br> «Сымон-музыка» (1925)<br> «Суд у лесе» (1943)<br> «Адплата» (1946)<br> «Рыбакова хата» (1947)<br>",
+          "thirdBlock":"<span> Зборнікі апавяданьняў </span> Апаведаньня. (1912) <br> «Тоўстае палена» (1913)<br> «Нёманаў дар» (1913)<br> «Казкі жыцьця» (1921)<br> «У ціхай вадзе» (1925)<br> «Крок за крокам» (1925)<br> «На рубяжы» (1925)",
+          "fourthBlock":"<span> Аповесьці </span> «У палескай глушы» (1923) <br> «На прасторах жыцьця» (1926)<br> «У глыбі Палесься» (1927) <br> «Адшчапенец» (1932) <br> «Дрыгва» (1934)"
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"https://www.youtube.com/embed/9FZehV2qJTk",
+        "map":"https://maps.google.com/maps?q=Vyazanka&t=&z=13&ie=UTF8&iwloc=&output=embed"
     }
+   
    
  }
