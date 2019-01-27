@@ -10,7 +10,7 @@ export default `
       </div>
       <nav>
           <a href="#">List of poets</a>
-          <a href="#about">About Us</a>
+          <a href="#about-us">About Us</a>
           <a href="#author-of-the-day">Author of the Day</a>
           <a href="#">Contacts</a>
         </nav>
@@ -24,7 +24,7 @@ export default `
   <section class="second-page">
     <div class="container">
       <div class="backg-decor"><img src="./assets/decor.png"><img src="./assets/decor.png"></div>
-      <div class="about-us">
+      <div class="about-us" id="about-us">
         <h2>About Us</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
@@ -33,7 +33,7 @@ export default `
           velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
       </div>
-      <div class="author-of-the-day">
+      <div class="author-of-the-day" id="author-of-the-day">
         <h2>Author of the Day</h2>
         <img src="./assets/author-of-the-day.png" alt="Jan Barszczewski">
         <blockquote>«Чалавек, які нязменна ідзе да мэты, не толькі зямлю, але і атмасферу можа змяніць»</blockquote>
