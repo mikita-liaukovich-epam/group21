@@ -55,14 +55,18 @@ main.content{
   min-height: 100px;
   margin: 5% 0;
 }
+.list h3{
+  display: flex;
+  width: 80%;
+}
 .first {
   width: 80%;
   list-style: none;
   padding: 0;
 }
 .first li {
-  padding: 10px 30px;
-  background: linear-gradient(to left, #6d6967 0%, white, #908986);
+  padding: 10px 10px;
+  background: rgba(0, 0, 0, 0.94);
   border-bottom: 1px solid grey;
   color: #506a6b;
   font-size: 20px;
@@ -71,7 +75,14 @@ main.content{
   text-align: center;
 }
 .first li:last-child {border-bottom: none;}
+.first li:hover{
+  cursor: pointer;
+  background-color: beige;
+}
 .first li a{
   text-decoration: none;
-  color: #000;
+  color: #fff;
+}
+.first li a:hover{
+  color: black;
 }
