@@ -1,20 +1,20 @@
 export default `
   <h1>Poets of Belarus</h1>
   <section class="first-page">
-    <div class="container">
-      <img src="./assets/ENG.png" alt="Language" class="active-lang">
+  <img src="./assets/ENG.png" alt="Language" class="active-lang">
       <div class="languages">
-        <img src="./assets/ENG.png" alt="English language" class="eng">
-        <img src="./assets/BEL.png" alt="Belarussian language" class="bel">
-        <img src="./assets/RUS.png" alt="Russian language" class="rus">
+        <img src="./assets/lang/ENG.png" alt="English language" class="eng">
+        <img src="./assets/lang/BEL.png" alt="Belarussian language" class="bel">
+        <img src="./assets/lang/RUS.png" alt="Russian language" class="rus">
       </div>
       <nav>
           <a class='list-poets'>List of poets</a>
-          <a href="#about">About Us</a>
+          <a href="#about-us">About Us</a>
           <a href="#author-of-the-day">Author of the Day</a>
           <a href="#">Contacts</a>
         </nav>
-      <img src="./assets/logo.png" alt="Poets of Belarus" class="logo">
+    <div class="container">
+      <img src="./assets/logo/logo.png" alt="Poets of Belarus" class="logo">
       <div class="buttons-wrapper">
         <button class='main-button left'>List of poets</button>
         <input type="text" class='main-button search-string' placeholder="Search">
@@ -23,7 +23,7 @@ export default `
   </section>
   <section class="second-page">
     <div class="container">
-      <div class="backg-decor"><img src="./assets/decor.png"><img src="./assets/decor.png"></div>
+      <div class="backg-decor"><img src="./assets/backgrounds/decor.png"><img src="./assets/backgrounds/decor.png"></div>
       <div class="about-us">
         <h2 id="about-us">About Us</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -44,8 +44,8 @@ export default `
   <footer>
     <div class="container">
       <hr>
-      <img src="./assets/logo-rsschool-4.svg" alt="the Rolling Scopes School" class="RSS-logo" height="87">
-      <img src="./assets/logo_rs_text.svg" alt="the Rolling Scopes" class="RS-logo" height="87">
+      <img src="./assets/footer/logo-rsschool-4.svg" alt="the Rolling Scopes School" class="RSS-logo" height="87">
+      <img src="./assets/footer/logo_rs_text.svg" alt="the Rolling Scopes" class="RS-logo" height="87">
       <p>
         <b>made by</b><br>
         Nick Levkovich<br>

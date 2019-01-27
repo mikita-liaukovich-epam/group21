@@ -1,7 +1,7 @@
-import { $$, inner } from '../../../utils';
-import template from './main_kir.template';
-import templateMain from '../main.template';
-import './main_kir.css';
+import { $$, inner } from '../../utils';
+import template from './list.template';
+import templateMain from '../main/main.template';
+import './list.css';
 
 $$('body').addEventListener('click', e => {
   const el = e.target;
