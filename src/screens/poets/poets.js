@@ -1,9 +1,13 @@
 import { $$, inner, remove } from '../../utils';
 import poets from "./poets.json";
-import template from './poets.template';
+import { getTemplate } from './poets.template';
 import './poets.css';
 
-$$('.testbutton').onclick = () => {
-  let currentPoet = poets['kolas'];
-  console.log(currentPoet);
-};
+
+function showPoet(name){
+  $$('body').innerHTML = getTemplate(name);
+}
+
+export function addPoetsLinks(){
+  $$('.content').addEventListener('click', (e) => {showPoet(e.target.dataset.name)})
+}

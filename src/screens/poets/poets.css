@@ -10,7 +10,6 @@ html {
 body {
 background-color: #f2eee9;
 transition: all 1s;
-
 }
 
 
@@ -21,33 +20,32 @@ margin: 30px auto;
 }
 
 .header__photo {
-    background-image: url(img/kolas.jpg);
-    width: 400px;
-    background-repeat: no-repeat;
-    min-height: 400px;
     background-position: top;
+}
+
+.header__photo img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
 }
 
 
 .header__menu {
     position: absolute;
-    width: 600px;
+    width: 665px;
     right: 0;
     top: 0;
     position: fixed;
     z-index: 10000;
-    background-color: lightgrey;
     padding: 30px 50px;
    
 }
 
-
 .header__menu li {
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 35px;
     position: relative;
     cursor: pointer;
-    
 }
 
 .header__menu li a{
@@ -204,7 +202,7 @@ margin: 30px auto;
     margin: 0 auto;
 }
 
-.main__slider {
+.main__slider  {
     position: relative;
     width: 290px;
     height: 285px;
@@ -213,6 +211,11 @@ margin: 30px auto;
     background-position: center;
     cursor: pointer;
     transition: 0.5s;
+}
+.main__slider img {
+    width: 290px;
+    height: 285px;
+    object-fit: cover;
 }
 
 .main__slider::before {
@@ -238,7 +241,7 @@ margin: 30px auto;
     position: absolute;
     top: 35%;
     left: 35%;
-    background-image: url("img/loopa.png");
+    background-image: url("assets/loopa.png");
     background-repeat: no-repeat;
     background-size: 30%;
     background-position: center;
@@ -259,46 +262,6 @@ margin: 30px auto;
 }
 .main__slider:hover::after {
     opacity: 1;
-    
-   
-}
-
-
-.main__slider.one {
-background-image: url("img/one.jpg")
-}
-
-.main__slider.two {
-    background-image: url("img/two.jpg")
-}
-
-.main__slider.three {
-    background-image: url("img/three.jpg")
-}
-
-.main__slider.four {
-    background-image: url("img/four.jpg")
-}
-
-.main__slider.five {
-    background-image: url("img/five.png")
-}
-
-.main__slider.six {
-    background-image: url("img/six.png")
-}
-.main__slider.seven {
-    background-image: url("img/seven.jpg")
-}
-
-.main__slider.eight {
-    background-image: url("img/eight.jpg")
-}
-.main__slider.nine {
-    background-image: url("img/nine.jpg")
-}
-.main__slider.ten {
-    background-image: url("img/ten.png")
 }
 
 .main__books {
