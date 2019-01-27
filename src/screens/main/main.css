@@ -1,0 +1,250 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  font-family: Segoe UI, sans-serif;
+}
+
+h1 {
+  position: absolute;
+  top: -140px;
+  color: transparent
+}
+
+.container {
+  width: 1100px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.first-page {
+  height: 100vh;
+  max-height: 1080px;
+}
+
+.first-page:before {
+  position: absolute;
+  content: '';
+  width: 100vw;
+  height: 100%;
+  max-height: 1080px;
+  background: url(../../assets/backgrounds/bg.png);
+  opacity: 0.2;
+  z-index: -99;
+}
+
+.logo {
+  position: absolute;
+  left: calc(50% - 200px);
+  top: 164px;
+}
+
+.buttons-wrapper {
+  position: absolute;
+  width: 701px;
+  top: 525px;
+  left: calc(50% - 360px);
+}
+
+.main-button {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 300px;
+  height: 75px;
+
+  outline: none;
+  background: transparent;
+  border: 2.5px solid black;
+  cursor: pointer;
+
+  font-family: Segoe UI, sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+
+  transition: 0.3s;
+}
+
+.main-button.left {
+  margin-right: 47px;
+}
+
+.main-button:hover {
+  background: white;
+  transition: 0.3s;
+}
+
+.search-string {
+  position: absolute;
+  top: 0;
+  right: 0;
+  float: right;
+
+  padding-left: 104px;
+  margin-right: 1px;
+  color: black;
+
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+
+::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.search-string:focus {
+  width: 700px;
+
+  background: white;
+  padding-left: 20px;
+
+  -webkit-transition: 0.8s ease-in-out;
+  -moz-transition: 0.8s ease-in-out;
+  -o-transition: 0.8s ease-in-out;
+  transition: 0.8s ease-in-out;
+}
+
+nav {
+  float: right;
+  margin-top: 15px;
+}
+
+nav a {
+  margin: 0 10px 0 10px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.active-lang {
+  margin: 15px 10px 0 10px;
+  float: right;
+  z-index: -1;
+  cursor: pointer;
+}
+
+.languages {
+  position: absolute;
+  width: 54px;
+  height: 100px;
+
+  right: 0;
+  top: 5px;
+
+  padding-top: 10px;
+  text-align: center;
+  background: #222;
+  display: none;
+}
+
+.languages img {
+  margin-bottom: 5px;
+}
+
+.second-page {
+  height: 560px;
+}
+
+.about-us {
+  margin-top: 100px;
+  padding: 15px;
+  width: 55%;
+  border: 2.5px solid black;
+  background: white;
+}
+
+h2 {
+  margin-top: -60px;
+  font-weight: 400;
+}
+
+.author-of-the-day {
+  position: absolute;
+  top: 210px;
+  right: 0;
+  width: 55%;
+  height: 218px;
+  padding: 15px;
+  float: right;
+  background: white;
+  border: 2.5px solid black;
+}
+
+.author-of-the-day h2 {
+  text-align: right;
+}
+
+.author-of-the-day img {
+  margin: 15px;
+  height: 200px;
+  float: left;
+}
+
+.author-of-the-day blockquote {
+  float: right;
+  width: 55%;
+  margin: 15px 10px 75px 0;
+}
+
+.author-of-the-day cite {
+  text-align: right;
+  float: right;
+}
+
+.backg-decor {
+  position: absolute;
+  z-index: -10;
+  top: 30px;
+  left: calc(50% - 200px);
+  filter: blur(4px);
+}
+
+.backg-decor img{
+  position: absolute;
+  transform: scale(0.8);
+  left: 90px;
+
+}
+
+.backg-decor img:first-child {
+  left: -90px;
+  top: 203px;
+}
+
+footer {
+  height: 200px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+footer p {
+  position: absolute;
+  margin: 0;
+  width: 250px;
+  left: calc(50% - 125px);
+}
+
+footer hr {
+  background: black;
+  height: 2px;
+  margin-bottom: 50px;
+}
+
+.RSS-logo {
+  float: left;
+}
+
+.RS-logo {
+  float: right;
+}
