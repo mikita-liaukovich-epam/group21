@@ -17,6 +17,6 @@ function showPoet(name){
   $$('body').innerHTML = getTemplate(name);
 }
 
-export function addPoetsLinks(){
+export function addPoetsLinks() {
   $$('.content').addEventListener('click', (e) => {showPoet(e.target.dataset.name)})
 }

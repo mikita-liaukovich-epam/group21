@@ -1,6 +1,6 @@
 import poets from "./poets.json";
 
-export function getTemplate(poet){
+export const getTemplate = function getTemplate(poet) {
   let lang = localStorage.getItem('currLang') || 'rus';
   return `<nav class="header__menu-container">
   <ul class="header__menu">
@@ -16,7 +16,7 @@ export function getTemplate(poet){
   <div class="header__poet-inform">
   <div class="header__photo">
   <img src="assets/${poet}/${poets[poet].photo[0]}">
-  </div>  
+  </div>
   <span class="header__poet-name">${poets[poet].name[lang]}</span>
   <span class="header__poet-quote">
     "${poets[poet].quote[lang]}"
@@ -24,12 +24,12 @@ export function getTemplate(poet){
   </div>
 </header>
 
-<main> 
+<main>
   <section class="main__timeline"> <a name="biography"></a>
   <div class=main__timeline-container>
       <div class="main__timeline-block">
           <div class="timeline-block-year">${poets[poet].biography.firstData}</div>
-          <div class="timeline-block-text"> 
+          <div class="timeline-block-text">
           ${poets[poet].biography.firstText[lang]}
           </div>
           <div class="timeline-block-emblem">
@@ -76,19 +76,19 @@ export function getTemplate(poet){
   </section>
 
   <a name="gallery"></a>
-  <section id="image_container" class="image_container"> 
+  <section id="image_container" class="image_container">
     <img src="assets/${poet}/${poets[poet].images[0]}" data-bp="assets/${poet}/${poets[poet].images[0]}" class="image_container_item">
-  
+
     <img src="assets/${poet}/${poets[poet].images[1]}" data-bp="assets/${poet}/${poets[poet].images[1]}" class="image_container_item">
-  
+
   <img src="assets/${poet}/${poets[poet].images[2]}" data-bp="assets/${poet}/${poets[poet].images[2]}" class="image_container_item">
- 
+
   <img src="assets/${poet}/${poets[poet].images[3]}" data-bp="assets/${poet}/${poets[poet].images[3]}" class="image_container_item">
 
   <img src="assets/${poet}/${poets[poet].images[4]}" data-bp="assets/${poet}/${poets[poet].images[4]}" class="image_container_item">
- 
+
   <img src="assets/${poet}/${poets[poet].images[5]}" data-bp="assets/${poet}/${poets[poet].images[5]}" class="image_container_item">
- 
+
   <img src="assets/${poet}/${poets[poet].images[6]}" data-bp="assets/${poet}/${poets[poet].images[6]}" class="image_container_item">
 
   <img src="assets/${poet}/${poets[poet].images[7]}" data-bp="assets/${poet}/${poets[poet].images[7]}" class="image_container_item">
@@ -100,7 +100,7 @@ export function getTemplate(poet){
   </section>
 
   <section class="main__books">
-    <a name="works"></a> 
+    <a name="works"></a>
     <div>
     ${poets[poet].works.firstBlock}
     </div>
@@ -121,7 +121,7 @@ export function getTemplate(poet){
   <section class="main__video">
   <a name="video"></a>
     <img class="youtube" src="assets/video.png" ytsrc="${poets[poet].video}">
-    
+
   </section>
 
   <section class="main__map">

@@ -1,14 +1,40 @@
-import { $$, inner, remove } from '../../utils';
+import { $$, inner, remove, sleep } from '../../utils';
 import template from './main.template';
 import './main.css';
 
+const poetsSearch = [['Петрусь Бровка', 'brovka'], ['Викентий Дунин-Марцинкевич', 'dunin'], ['Владимир Короткевич', 'korotkevich'], ['Якуб Колас', 'kolas'], ['Янка Купала', 'kupala'], ['Янка Лучина', 'luchina'], ['Максим Танк', 'tank']]
 
 inner($$('body'), template);
 
+const repeat = function repeat() {
+  sleep(200).then(() => {
+  $$('.autocomplite ul').innerHTML = '';
+  poetsSearch.forEach(element => {
+    if (element[0].toUpperCase().includes($$('.search-string').value.toUpperCase())) {
+      inner($$('.autocomplite ul'), `<li><a data-name='${element[1]}'>${element[0]}</a></li>`)
+    }
+  });
+  });
+}
+
+let checkingInterval = null;
+document.addEventListener('click', event => {
+  if (event.target === $$('.search-string')) {
+    $$('.search-pic').style.opacity = '1';
+    $$('.search-pic').style.zIndex = '0';
+    sleep(800).then(() => {
+      checkingInterval = setInterval(repeat, 100);
+    });
+  }
+});
 localStorage.setItem('currLang', 'eng');
 
+
 $$('.search-string').onblur = () => {
+  $$('.search-pic').style.zIndex = '-8';
+  $$('.search-pic').style.opacity = '0';
   $$('.search-string').value = '';
+  clearInterval(checkingInterval);
 }
 
 $$('.active-lang').onclick = () => {

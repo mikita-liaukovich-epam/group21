@@ -11,13 +11,17 @@ export default `
           <a class='list-poets'>List of poets</a>
           <a href="#about-us">About Us</a>
           <a href="#author-of-the-day">Author of the Day</a>
-          <a class="abouteUs">Contacts</a>
+          <a class="aboutUs">Contacts</a>
         </nav>
     <div class="container">
       <img src="./assets/logo/logo.png" alt="Poets of Belarus" class="logo">
       <div class="buttons-wrapper">
         <button class='main-button left'>List of poets</button>
         <input type="text" class='main-button search-string' placeholder="Search">
+        <img src="./assets/search.png" alt="search" class="search-pic">
+        <div class="autocomplite">
+          <ul></ul>
+        </div>
       </div>
     </div>
   </section>
