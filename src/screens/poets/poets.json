@@ -69,7 +69,7 @@
             "ten.png"
 
         ],
-        "video":"https://www.youtube.com/embed/FRfHUhw9KkI",
+        "video":"FRfHUhw9KkI",
         "map":"https://maps.google.com/maps?q=stolbcy&t=&z=9&ie=UTF8&iwloc=&output=embed"
     },
 
@@ -128,7 +128,7 @@
           "firstBlock": "<span> Сборники стихов </span> «Жалейка» (1908)<br> «Гусляр» (1910); <br> «Дорогой жизни» (1913)<br> «Наследие» (1922)<br> «Безымянное» (1925)<br> «Отцветание» (1930)<br> «Песня строительству»",
           "secondBlock":"<span>  Поэмы </span> «Зимой» (1907)<br> «Никому» (1907)<br> «Калека» (1907)<br> «Расплата любовью» (1907)<br> «В Пилиповку» (1908)<br> «За что?» (1908)<br> «Извечная песня» (1908)<br> «Курган» (1910)",
           "thirdBlock":"<span> Пьесы  </span> «Павлинка» (1912)<br> «Примаки» (1913)<br> «Раскиданное гнездо» (1913)<br> «Здешние» (1922)",
-          "fourthBlock":"<span> Аповесьці </span> «У палескай глушы» (1923) <br> «На прасторах жыцьця» (1926)<br> «У глыбі Палесься» (1927) <br> «Адшчапенец» (1932) <br> «Дрыгва» (1934)"
+          "fourthBlock":"<span> Сказки для детей  </span> «Задачкі»<br> «Песня і казка»<br> «Бай»<br> «Вяртаюцца з выраю жоравы, гусі...»<br> «Сын і маці»<br> «А зязюлька кукавала...»<br> «Мароз»<br> «Кароль» "
        },
          "images":[
             "one.jpg",
@@ -143,10 +143,9 @@
             "ten.jpg"
 
         ],
-        "video":"https://www.youtube.com/embed/9FZehV2qJTk",
+        "video":"9FZehV2qJTk",
         "map":"https://maps.google.com/maps?q=Vyazanka&t=&z=13&ie=UTF8&iwloc=&output=embed"
     },
-
     "korotkevich":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
@@ -167,42 +166,42 @@
           "bel": "Прайграць не прыніжэнне. Прыніжэнне — кпіць з таго, хто мужна прайграў"
        },
        "biography":{  
-          "firstData":"1882-1902",
+          "firstData":"1930-1949",
           "firstText":{  
-             "rus":"Родился 25 июня 1882 года в деревне Вязынка в белорусской католической семье Доминика Онуфриевича Луцевича и Бенигны Ивановны Луцевич Родители были обедневшие белорусские шляхтичи, арендовавшие земли в помещичьих угодьях. Род Луцевичей известен с начала семнадцатого века. Там же познакомился с будущей женой - Владислав Станкевич. ",
-             "eng":"Born on June 25, 1882 in the village of Vyazinka in the Belarusian Catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich. Parents were impoverished Belarusian gentry, to lease land in the landlords' land. Rhode Lutsevich known since the beginning of the seventeenth century. There he met his future wife - Vladislav Stankevich.",
-             "bel":"Нарадзіўся 25 чэрвеня 1882 года ў вёсцы Вязынка ў беларускай каталіцкай сям'і Дамініка Ануфрыевіча Луцэвіча і Бянігна Іванаўна Луцэвіч. Бацькі былі збяднелыя беларускія шляхцічы, арандавалі зямлі ў памешчыцкіх угоддзях. Род Луцэвічаў вядомы з пачатку семнаццатага стагоддзя."
+             "rus":"Родился Владимир 26 ноября 1930 года в городе Орше  в семье интеллигентов. Владимир с самого раннего детства интересовался историей, особенно историей Белоруссии. Кроме учёбы ходил в музыкальную школу. В 1944 году вернулся в Оршу, где получил среднее образование",
+             "eng":"Vladimir was born November 26, 1930 in the city of Orsha family of intellectuals. Vladimir from early childhood was interested in history, especially the history of Belarus. Besides studying I went to music school. In 1944 he returned to Orsha, where he received his secondary education",
+             "bel":"Нарадзіўся Уладзімір 26 лістапада 1930 года ў горадзе Орша ў сям'і інтэлігентаў. Уладзімір з самага ранняга дзяцінства цікавіўся гісторыяй, асабліва гісторыяй Беларусі. Акрамя вучобы хадзіў у музычную школу. У 1944 годзе вярнуўся ў Оршу, дзе атрымаў сярэднюю адукацыю"
           },
-          "secondData":"1902-1909",
+          "secondData":"1949-1954",
           "secondText":{  
-             "rus":"После смерти отца в 1902 году работал домашним учителем, писарем в помещичьем имении. В 1898 году закончил народное училище в местечке Беларуч. В 1908—1909 годы жил в Вильне, где работал в редакции первой белорусской газеты «Наша Ніва».",
-             "eng":"After his father's death in 1902, he worked as a tutor, a clerk in the landed estates. In 1898 he graduated from public school in the town Belaruch. In 1908-1909 he lived in Vilna, where he worked in the editorial board of the first Belarusian newspaper Nasha Niva",
-             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+             "rus":"В 1949—1954 годах учился на русском отделении филологического факультета КГУ имени Т. Г. Шевченко. Затем в нём же закончил аспирантуру. Летом 1950 года, после первого курса филфака, в Орше им был написан первый вариант повести «Дикая охота короля Стаха»[18]. Один из однокурсников и друзей Короткевича, говорил, что Владимир был душой компании.",
+             "eng":"In 1949-1954 he studied at the Russian department of the philological department of the Taras Shevchenko KSU. Then he graduated from graduate school there. In the summer of 1950, after the first course of philology, in Orsha, he wrote the first version of the story “The Wild Hunt of King Stach” [18]. One of the classmates and friends of Korotkevich, said that Vladimir was the soul of the company.",
+             "bel":"У 1949-1954 гадах вучыўся на рускім аддзяленні філалагічнага факультэта КГУ імя Т. Г. Шаўчэнка. Затым у ім жа скончыў аспірантуру. Улетку 1950 года, пасля першага курса філфака, у Оршы ім быў напісаны першы варыянт аповесці «Дзікае паляванне караля Стаха» [18]. Адзін з аднакурснікаў і сяброў Караткевіча, казаў, што Уладзімір быў душой кампаніі."
           },
-          "thirdData":"1909-1913",
+          "thirdData":"1955-1958",
           "thirdText":{  
-             "rus":"В 1909—1913 годах начинающий поэт учился в Санкт-Петербурге на подготовительных общеобразовательных курсах А.Черняева, затем в 1915 году проучился в Московском городском народном университете, который был основан на средства известного в Российской империи золотопромышленника и мецената Альфонса Леоновича Шанявского и его жены в 1908 году; университет находился в Москве и носил имя мецената.",
-             "eng":"In 1909-1913, an aspiring poet, studied in St. Petersburg at the preparatory education courses A.Chernyaeva, then in 1915 he studied at the Moscow city representatives of the People's University, which was founded by the famous Russian Empire Gold Mining and patrons Leonovich Shanyavsky Alfonso and his wife 1908; University was in Moscow, and bore the name of patrons.",
-             "bel":"У 1909-1913 гадах пачатковец паэт вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А.Черняева, затым ў 1915 году правучыўся ў Маскоўскім гарадскім народным універсітэце, які быў заснаваны на сродкі вядомага ў Расійскай імперыі золотопромышленника і мецэната Альфонса Лявонавіча Шаняўскага і яго жонкі ў 1908 год; універсітэт знаходзіўся ў Маскве і насіў імя мецэната."
+             "rus":"Весной 1955 года он сдал экзамены кандидатского минимума и приступил к написанию диссертации про восстание 1863 года, но так её и не закончил. В то же время пришла и идея о написании романа на эту же тему. В 1954—1958 годах работал школьным учителем русского языка и литературы",
+             "eng":"In the spring of 1955, he passed the candidate minimum examinations and began writing a dissertation about the uprising of 1863, but did not finish it. At the same time, the idea of writing a novel on the same subject came. In 1954-1958 he worked as a school teacher of Russian language and literature.",
+             "bel":"Увесну 1955 гады ён здаў экзамены кандыдацкага мінімуму і прыступіў да напісання дысертацыі пра паўстанне 1863 года, але так яе і не скончыў. У той жа час прыйшла і ідэя аб напісанні рамана на гэтую ж тэму. У 1954-1958 гадах працаваў школьным настаўнікам рускай мовы і літаратуры."
           },
-          "fourthData":"1913-1916",
+          "fourthData":"1958-1962",
           "fourthText":{  
-             "rus":"Янка Купала поступил в народный университет в сентябре, однако его намерениям продолжить учёбу помешала всеобщая мобилизация, объявленная в связи с наступлением Первой мировой войны. Уже в начале 1916 года поэта-студента призвали в армию и тот поступил в дорожно-строительный отряд, в составе которого работал вплоть до наступления событий Октябрьской революции.",
-             "eng":"Yanka Kupala entered the People's University in September, but his intention to continue his studies prevented the general mobilization declared in connection with the onset of the First World War. At the beginning of 1916, a student of the poet called in the army and he entered the road construction team, which worked until the occurrence of the events of the October Revolution.",
-             "bel":"Янка Купала паступіў у народны ўніверсітэт у верасні, аднак яго намерам працягнуць вучобу перашкодзіла ўсеагульная мабілізацыя, аб'яўленая ў сувязі з надыходам Першай сусветнай вайны. Ужо ў пачатку 1916 года паэта-студэнта прызвалі ў армію і той паступіў у дарожна-будаўнічы атрад, у складзе якога працаваў аж да наступлення падзей Кастрычніцкай рэвалюцыі."
+             "rus":"Окончил Высшие литературные (1958 — 1960 год) (во время которых увлёкся кино и начал работу над сценариями) и сценарные курсы (1962 год) в Институте кинематографии  в Москве, которая, как и Киев, оказала серьёзное влияние на формирование Короткевича как личности и художника слова.",
+             "eng":"He graduated from the Higher Literary (1958 - 1960) (during which he became interested in cinema and began working on scripts) and script courses (1962) at the Institute of Cinematography in Moscow, which, like Kiev, had a serious influence on the formation of Korotkevich as an individual and artist the words.",
+             "bel":"Скончыў Вышэйшыя літаратурныя (1958 - 1960 год) (падчас якіх захапіўся кіно і пачаў працу над сцэнарамі) і сцэнарныя курсы (1962 год) у Інстытуце кінематаграфіі ў Маскве, якая, як і Кіеў, аказала сур'ёзны ўплыў на фарміраванне Караткевіча як асобы і мастака слова."
           },
-          "fivethData":"1945-1956",
+          "fivethData":"1962-1984",
           "fivethText":{  
-             "rus":"В 1919 году он переезжает в Минск. 1930 году Янка Купала предпринял попытку самоубийства, однако жена спасла его от гибели. 28 июня 1942 года, за несколько дней до своего 60-летия, поэт трагически погиб в Москве",
-             "eng":"In 1919 he moved to Minsk. 1930 Yanka Kupala attempted suicide, but his wife had saved him from death. June 28, 1942, a few days before his 60th birthday, the poet died tragically in Moscow",
-             "bel":"У 1919 годзе ён пераязджае ў Менск. 1930 год Янка Купала зрабіў спробу самагубства, аднак жонка выратаваў яго ад пагібелі. 28 чэрвеня 1942 г., за некалькі дзён да свайго 60-годдзя, паэт трагічна загінуў у Маскве"
+             "rus":"Владимир Короткевич писал об истории своего народа, его искусстве, культуре, духовной жизни. Он выступал в защиту белорусского языка и культуры, памятников архитектуры и природы.",
+             "eng":"Vladimir Karatkevich wrote about the history of his people, his art, culture, spiritual life. He spoke in defense of the Belarusian language and culture, monuments of architecture and nature.",
+             "bel":"Уладзімір Караткевіч пісаў пра гісторыю свайго народа, яго мастацтве, культуры, духоўнага жыцця. Ён выступаў у абарону беларускай мовы і культуры, помнікаў архітэктуры і прыроды."
           }
         },
         "works":{  
-          "firstBlock": "<span>Зборнікі вершаў </span> Песьні жальбы (1910)<br> Водгульле (1922)<br> Нашы дні (1937)<br> Адпомсьцім (1942)<br> Голас зямлі (1943)<br>  Мой дом (1946)<br> Жыве між нас геній (1952)",
-          "secondBlock":"<span> Паэмы </span> «Прапаў чалавек» (1913)<br> «Новая зямля» (1923)<br> «Сымон-музыка» (1925)<br> «Суд у лесе» (1943)<br> «Адплата» (1946)<br> «Рыбакова хата» (1947)<br>",
-          "thirdBlock":"<span> Зборнікі апавяданьняў </span> Апаведаньня. (1912) <br> «Тоўстае палена» (1913)<br> «Нёманаў дар» (1913)<br> «Казкі жыцьця» (1921)<br> «У ціхай вадзе» (1925)<br> «Крок за крокам» (1925)<br> «На рубяжы» (1925)",
-          "fourthBlock":"<span> Аповесьці </span> «У палескай глушы» (1923) <br> «На прасторах жыцьця» (1926)<br> «У глыбі Палесься» (1927) <br> «Адшчапенец» (1932) <br> «Дрыгва» (1934)"
+          "firstBlock": "<span> Романы </span> Колосья под серпом твоим (1964)<br> Христос приземлился в Гродно(1966)<br> Черный замок ольшанский (1979)<br> Леониды не вернутся к Земле(1960)",
+          "secondBlock":"<span> Повести </span> «Дикая охота короля Стаха» (1958)<br> «Седая легенда» (1960)<br> «Цыганский король» (1958)<br> «Оружие» (1964)<br> «Листья каштанов» (1973)",
+          "thirdBlock":"<span> Сборники поэзии </span> Матчына душа» (1958)<br>  «Вячэрнія ветразі»<br>  «Мая Іліяда» (1969)<br> «Быў. Ёсць. Буду.» (1986) ",
+          "fourthBlock":"<span> Сборники повестей и рассказов </span> «Блакіт і золата дня» (1961)<br> «Чазенія» (1966)<br> «Вока тайфуна» (1974)<br> «З вякоў мінулых» (1978)"
        },
          "images":[
             "one.jpg",
@@ -217,9 +216,300 @@
             "ten.jpg"
 
         ],
-        "video":"https://www.youtube.com/embed/9FZehV2qJTk",
-        "map":"https://maps.google.com/maps?q=Vyazanka&t=&z=13&ie=UTF8&iwloc=&output=embed"
+        "video":"9UIt_HLlbxs",
+        "map":"https://maps.google.com/maps?q=orsha&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+    "brovka":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "brovka.jpg"
+       ],
+       "name":{  
+          "rus":"Петр Бровка",
+          "eng":"Petr Brovka",
+          "bel":"Пятрусь Броука"
+       },
+       "quote":{  
+          "rus":"Ну с чем, скажи, с какой любимой, могу я книжку сравнить?",
+          "eng":"Tell me if the book can compare with anything",
+          "bel": "Ну, з чым, скажы, з якой каханкай магу я кніжку параўнаць?"
+       },
+       "biography":{  
+          "firstData":"1905-1918",
+          "firstText":{  
+             "rus":"Родился 12 июня 1905 года в деревне Путилковичи в крестьянской семье (9 детей). Отец — Устин Адамович. Мать — Алёна Степановна. Окончил церковно-приходскую школу в Лепеле",
+             "eng":"Born on June 12, 1905 in the village of Putilkovichi in a peasant family (9 children). Father - Ustin Adamovich. Mother - Alyona Stepanovna. Graduated from parish school in Lepel",
+             "bel":"Нарадзіўся 12 чэрвеня 1905 года ў вёсцы Пуцілкавічы ў сялянскай сям'і (9 дзяцей). Бацька - Юстын Адамовіч. Маці - Алёна Сцяпанаўна. Скончыў царкоўна-прыхадскую школу ў Лепелі"
+          },
+          "secondData":"1918-1928",
+          "secondText":{  
+             "rus":"В 1918—1924 годах работал переписчиком, делопроизводителем и счетоводом. В 1925—1927 годах был завотделом Окружкома комсомола в Полоцке. В 1927—1928 годах — ответственным секретарём редакции газеты «Чырвоная Полаччына».",
+             "eng":"In 1918–24 he worked as a copyist, clerk and bookkeeper. In the years 1925-1927 was the head of the Okrug Komsomol department in Polotsk. In 1927-1928, he was the executive secretary of the editorial office of the newspaper Chyrvonay Polachchyna.",
+             "bel":"У 1918-1924 гадах працаваў перапісчыкам, справаводам і рахаўніком. У 1925-1927 гадах быў загадчык аддзела акруговыя камісіі камсамола ў Полацку. У 1927-1928 гадах - адказным сакратаром рэдакцыі газеты «Чырвоная Полаччына»."
+          },
+          "thirdData":"1928-1942",
+          "thirdText":{  
+             "rus":"Окончил педагогический факультет БГУ (1928—1931). С 1928 года — в литературном объединении «Маладняк», позже в Белорусской ассоциации пролетарских писателей (БелАПП). В 1941—1942 году служил в РККА, работал во фронтовой и партизанской печати. ",
+             "eng":"He graduated from the pedagogical faculty of BSU (1928–1931).Since 1928 - in the literary association Maladnyak, later in the Belarusian Association of Proletarian Writers (BelAPP). In 1941–1942, he served in the Red Army, worked in the front and partisan press.",
+             "bel":"Скончыў педагагічны факультэт БДУ (1928-1931). З 1928 года - у літаратурным аб'яднанні «Маладняк», пазней у Беларускай асацыяцыі пралетарскіх пісьменнікаў (БелАПП). У 1941-1942 годзе служыў у РККА, працаваў у франтавой і партызанскага друку. "
+          },
+          "fourthData":"1943-1967",
+          "fourthText":{  
+             "rus":"В 1943—1945 годах был ответственным секретарём СП БССР, в 1948—1967 годы — председателем Правления СП БССР. В 1945—1948 годы — главный редактор литературного журнала «Полымя».",
+             "eng":"In 1943-1945, he was the executive secretary of the JV BSSR, in 1948-1967 - the chairman of the BSSR JV. In 1945-1948 - the chief editor of the literary magazine Polymya.",
+             "bel":"У 1943-1945 гадах быў адказным сакратаром СП БССР, у 1948-1967 гады - старшынёй Праўлення СП БССР. У 1945-1948 гады - галоўны рэдактар літаратурнага часопіса «Полымя»."
+          },
+          "fivethData":"1967-1980",
+          "fivethText":{  
+             "rus":" В 1967—1980 годы — главный редактор Белорусской советской энциклопедии.  У. Бровка умер 24 марта 1980 года в Минске. Похоронен на Восточном кладбище. Сын — Юрий Петрович Бровка (1936), доктор юридических наук, профессор БГУ.",
+             "eng":"In 1967-1980 - the chief editor of the Belarusian Soviet Encyclopedia. U. Brovka died on March 24, 1980 in Minsk. He was buried in the Eastern Cemetery. Son - Yuri Petrovich Brovka (1936), Doctor of Law, Professor of BSU.",
+             "bel":"У 1967-1980 гады - галоўны рэдактар Беларускай савецкай энцыклапедыі. У. Броўка памёр 24 сакавіка 1980 года ў Мінску. Пахаваны на Усходніх могілках. Сын - Юрый Пятровіч Край (1936), доктар юрыдычных навук, прафесар БДУ."
+          }
+        },
+        "works":{  
+          "firstBlock": "<span> Сборники поэзии </span> Гады як шторм»(1930)<br> «Прамова фактамі» (1930)<br> «Цэхавыя будні»  (1931)<br> «Паэзія» (1932)<br> «Так пачыналася маладосць»  (1934)",
+          "secondBlock":"<span> Сборники поэзии </span> «Прыход героя»  (1935)<br> «Вясна радзімы»  (1937)<br> «Кацярына : Паэма»  (1938)<br> «Вершы і паэмы»  (1940)<br> «Шляхамі баравымі» (1940)",
+          "thirdBlock":"<span> Сборники поэзии </span> «Насустрач сонцу» (1943)<br> «У роднай хаце»  (1946)<br> «Вершы і паэмы»  (1946)<br> «Сонечнымі днямі»  (1950)<br> «Цвёрдымі крокамі»  (1954)",
+          "fourthBlock":"<span> Сборники поэзии </span> «Пахне чабор»  (1959)<br> «Далёка ад дому»  (1960)<br> «Па сакрэту : сатыра і гумар»  (1961)<br> «А дні ідуць…»  (1961)"
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"y7q6WXFqP2I",
+        "map":"https://maps.google.com/maps?q=Ushachi&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+    "dunin":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "dunin.jpg"
+       ],
+       "name":{  
+          "rus":"Bинцент Дунин-Марцинкевич",
+          "eng":"Vincent Dunin-Martinkevich",
+          "bel":"Bинцэнт Дунiн-Марцiнкевiч"
+       },
+       "quote":{  
+          "rus":"Кажется что обычная девушка, но как посмотрит, так в самое серце",
+          "eng":"It seems like an ordinary girl, but as she looks, so in to very soul",
+          "bel": "Дзеўка, як дзеўка, а як гляне, ды і сэрца дастане"
+       },
+       "biography":{  
+          "firstData":"1808-1935",
+          "firstText":{  
+             "rus":"Pодился ВинцентДунин-Марцинкевич 4 февраля 1808 года в фольварке Панюшковичи  Минской губернии в шляхетской семье. После окончания Бобруйского поветового училища и Виленской базилианской бурсы поступил на медицинский факультет Петербургского университета, но вынужден был прервать учёбу по причине болезни.",
+             "eng":"Born Vincent Dunin-Marcinkiewicz, February 4, 1808 in the manor Panyushkovichi Minsk province in gentry family. After graduating from college and the Bobruisk povet Vilna Basilian seminary entered the medical faculty of St. Petersburg University, but was forced to interrupt his studies due to illness.",
+             "bel":"Нарадзіўся Вінцэнт Дунін-Марцінкевіч 4 лютага 1808 года ў фальварку Панюшковичи Мінскай губерні ў шляхецкай сям'і. Пасля заканчэння Бабруйскага павятовага вучылішча і Віленскай бызыліянскія бурсы паступіў на медыцынскі факультэт Пецярбургскага універсітэта, але вымушаны быў перапыніць вучобу з-за хваробы."
+          },
+          "secondData":"1835-1838",
+          "secondText":{  
+             "rus":"Позднее он служил чиновником в Минском криминальном суде, был переводчиком в Минской епархиальной консистории.В ноябре 1835 года по подозрению в подделке дворянских документов и королевских печатей был арестован и находился под домашним арестом. Вернулся на работу в духовную консисторию в феврале 1836 года.",
+             "eng":"He later served as an officer in the Criminal Court of Minsk, was translator in Minsk diocesan konsistorii.V November 1835 on suspicion of forgery documents noble and royal seals had been arrested and placed under house arrest. He returned to work in the spiritual consistory in February 1836.",
+             "bel":"Пазней ён служыў чыноўнік у Мінскім крымінальны судзе, быў перакладчык ў Мінскім епархіяльным кансысторыях лістапада 1835 года па падазрэнні ў падробцы дваранскія дакументаў і каралеўскія пячаткі былі арыштаваныя і знаходзіўся пад хатнім арыштам. Вярнуўся на працу ў духоўную кансысторыю ў лютым 1836 году."
+          },
+          "thirdData":"1838-1845",
+          "thirdText":{  
+             "rus":"В 1840 году оставил службу, приобрел фольварк Люцинка около Ивенца Воложинского района, который стал для него местом постоянного жительства до конца дней. Однако много времени проводил писатель в Минске, в среде демократической интеллигенции.",
+             "eng":"In 1840 he left the service, acquired a farm near Lyutsinka Ivenets Volozhin district, which became his permanent residence until the end of days. However, the writer spent much time in Minsk on Wednesday democratic intelligentsia.",
+             "bel":"У 1840 году пакінуў службу, набыў фальварак Люцынка каля Івянца Валожынскага раёна, які стаў для яго месцам пастаяннага жыхарства да канца дзён. Аднак шмат часу праводзіў пісьменнік у Мінску, у асяроддзі дэмакратычнай інтэлігенцыі."
+          },
+          "fourthData":"1845-1952",
+          "fourthText":{  
+             "rus":"Вместе с писательской деятельностью Дунин-Марцинкевич активно занимался и просветительской работой — организовывал белорусские школы, собирал фольклор, записывал разговорный язык. Особого внимания заслуживает театральная деятельность Винцента Дунина-Марцинкевича. Его стараниями был создан первый белорусский театральный коллектив. ",
+             "eng":"Along with writing activities Dunin-Marcinkiewicz has been active in raising and education - organized the Belarusian schools, collected folklore, recorded the spoken language. Particularly noteworthy theatrical activities of Vincent Dunin-Marcinkiewicz. Due to his efforts the first Russian theater company was created.",
+             "bel":"Разам з пісьменніцкай дзейнасцю Дунін-Марцінкевіч актыўна займаўся і асветніцкай працай - арганізоўваў беларускія школы, збіраў фальклор, запісваў гутарковы мову. Асаблівай увагі заслугоўвае тэатральная дзейнасць Вінцэнта Дуніна-Марцінкевіча. Яго стараннямі быў створаны першы беларускі тэатральны калектыў."
+          },
+          "fivethData":"1852-1884",
+          "fivethText":{  
+             "rus":"Первая постановка комической оперы «Селянка» (Идиллия) состоялась 9 февраля 1852 года, а на театральных подмостках открыто прозвучало белорусское слово. Эта дата возникновения белорусского сценического искусства. С марта 1862 и до 22 февраля 1864 года в Добровлянах прятался от преследования царской администрации. Умер в 1884 году.",
+             "eng":"The first production of the comic opera Selanca (Idyll) took place on February 9, 1852, and the Belarusian word was openly spoken on the stage. This is the date of the Belarusian scenic art. From March 1862 until February 22, 1864 in Dobrovlyany, he hid from persecution of the tsarist administration. He died in 1884.",
+             "bel":"Першая пастаноўка камічнай оперы «Сялянка» (Ідылія) 9 лютага адбылася 1852 года, а на тэатральных падмостках адкрыта прагучала беларускае слова. Гэтая дата ўзнікнення беларускага сцэнічнага мастацтва. З сакавіка 1862 і да 22 лютага 1864 года ў Добровлянах хаваўся ад пераследу царскай адміністрацыі. Памёр ў 1884 годзе года."
+          }
+        },
+        "works":{  
+          "firstBlock": "<span> Поэмы </span>Гапон 1854<br> Вечарніцы 1855<br> Купала 1855<br> Шчароускія дажынкі 1857",
+          "secondBlock":"<span> Драматические произведения </span> «Kомедия-опера «Сялянка» 1846<br> водевиль «Пінская шляхта» 1866<br> комедия «Залеты» 1870",
+          "thirdBlock":"<span> Перевод поэмы </span> А. Мицкевича «Пан Тадеуш» 1859.",
+          "fourthBlock":"<span> Память </span> Имя В. Дунина-Марцинкевича носят Могилевский областной театр драмы и комедии (г. Бобруйск). В Минске, во Фрунзенском районе названа улица в честь Винцента Дунина-Марцинкевича. На доме № 2/2 установлена мемориальная доска."
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"2Z9MOhnWXsM",
+        "map":"https://maps.google.com/maps?q=%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+    "luchina":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "luchina.jpg"
+       ],
+       "name":{  
+          "rus":"Янка Лучина",
+          "eng":"Yanka Luchina",
+          "bel":"Янка Лучына"
+       },
+       "quote":{  
+          "rus":"С тобой расстаться мы никогда не хотим. И неприглядый дом с пажитками, I поле скупое, выгон без паши Мы, Любим и ценим - ведь они наши.",
+          "eng":"We never want to live you. And poor house and poor field, we love because they are ours.",
+          "bel": "I непрыглядную хату з пажыткамі, I поле скупое, выган без пашы Мы, апрануушыся старымі світкамі, Любім і цэнім — бо яны нашы"
+       },
+       "biography":{  
+          "firstData":"1851-1865",
+          "firstText":{  
+             "rus":"Родился в 1851 году в Минске. Происходил из шляхетского рода Лучивко-Неслуховских. Его отец, Луциан Юрьевич, был тогда столоначальником в Минской палате гражданского суда, где после, получивши чин коллежского асессора, стал секретарём.",
+             "eng":"Born in 1851 in Minsk. Descended from a noble family of Luchivko-Neslukhovskih. His father, Lucian Yuryevich, was then head clerk in the Minsk Chamber of the civil court, where after, having received the rank of collegiate assessor, he became secretary.",
+             "bel":"Нарадзіўся ў 1851 годзе ў Мінску. Паходзіў з шляхецкага роду Лучивко-Неслухоўскага. Яго бацька, Луциан Юр'евіч, быў тады столоначальником ў Мінскай палаце грамадзянскага суда, дзе пасля, атрымаўшы чын калежскага асэсара, стаў сакратаром."
+          },
+          "secondData":"1851-1865",
+          "secondText":{  
+             "rus":"Янка Лучина — один из основных псевдонимов Ивана (Яна) Неслуховского. Им он подписывал только белорусскоязычные произведения.  Псевдоним символизировал духовное единение творчества поэта с белорусским народом и его просветительскую роль. ",
+             "eng":"Yanka Luchina is one of the main pseudonyms of Ivan (Yana) Neslukhovsky. He signed only Belarusian-language works for them. The pseudonym symbolized the spiritual unity of the poet’s creative work with the Belarusian people and their educational role.",
+             "bel":"Янка Лучына - адзін з асноўных псеўданімаў Івана (Яна) Неслухоўскага. Ім ён падпісваў толькі беларускамоўныя творы. Псеўданім сімвалізаваў духоўнае яднанне творчасці паэта з беларускім народам і яго асветніцкую ролю."
+          },
+          "thirdData":"1865-1871",
+          "thirdText":{  
+             "rus":"В 14-летнем возрасте стал учащимся минской классической гимназии, которую закончил в 1870 году в ряде лучших учеников. После в 1870—1871 годах Иван Неслуховский учился на математическом факультете Санкт-Петербургского университета. Он успешно сдал вступительные экзамены. В 1871 он попросил разрешение на отдых и, не дожидаясь сессии, выехал в Минск.",
+             "eng":"At the age of 14 he became a student of the Minsk classical gymnasium, which he graduated in 1870 in a number of the best students. After 1870-1871, Ivan Neslukhovsky studied at the mathematics department of St. Petersburg University. He successfully passed the entrance exams. In 1871 he asked for permission to rest and, without waiting for the session, went to Minsk.",
+             "bel":"У 14-гадовым узросце стаў навучэнцам мінскай класічнай гімназіі, якую скончыў у 1870 г. у шэрагу лепшых вучняў. Пасля ў 1870-1871 гадах Іван Неслухоўскі вучыўся на матэматычным факультэце Санкт-Пецярбургскага універсітэта. Ён паспяхова здаў уступныя экзамены. У 1871 ён папрасіў дазвол на адпачынак і, не чакаючы сесіі, выехаў у Менск."
+          },
+          "fourthData":"1871-1877",
+          "fourthText":{  
+             "rus":"Неожиданно его выбор остановился на профессии инженера, и осенью 1871 года Иван Луцианович оформил отчисление из университета и поступил в Санкт-Петербургский государственный технологический институт, который окончил в 1877 году, после чего работал начальником главных железнодорожных мастерских в Тифлисе. На Кавказе, возможно познакомился с Максимом Горьким. ",
+             "eng":"Suddenly, his choice focused on the engineering profession, and in the fall of 1871 Ivan Lutsianovich issued a deduction from the university and entered the St. Petersburg State Institute of Technology, graduating in 1877, after which he worked as head of the main railway workshops in Tiflis. In the Caucasus, perhaps met with Maxim Gorky.",
+             "bel":"Нечакана яго выбар спыніўся на прафесіі інжынера, і ўвосень 1871 году Іван Луцианович аформіў адлічэнне з універсітэта і паступіў у Санкт-Пецярбургскі дзяржаўны тэхналагічны інстытут, які скончыў ў 1877 годзе, пасля чаго працаваў начальнікам галоўных чыгуначных майстэрняў у Тыфлісе. На Каўказе, магчыма пазнаёміўся з Максімам Горкім."
+          },
+          "fivethData":"1877-1897",
+          "fivethText":{  
+             "rus":"В конце 1870-х годов после неудачного падения его разбил паралич, после чего он получил возможность вернуться в Минск, где начал работу в техническом бюро Либаво-Роменской железной дороги. Посещал театры и даже ходил на охоту, что давало повод слухам о том, что он симулировал болезнь.Умер Иван Неслуховский в 1897 году, похоронен на Кальварийском кладбище Минска рядом с женой.",
+             "eng":"In the late 1870s, after an unsuccessful fall, he was paralyzed, after which he was given the opportunity to return to Minsk, where he began work in the technical bureau of the Libauvo-Romenskaya railway. I visited theaters and even went hunting, which gave rise to rumors that he pretended to be sick. Ivan Neslukhovsky died in 1897, was buried in the Kalvariysky cemetery of Minsk near his wife.",
+             "bel":"У канцы 1870-х гадоў пасля няўдалага падзення яго разбіў параліч, пасля чаго ён атрымаў магчымасць вярнуцца ў Менск, дзе пачаў працу ў тэхнічным бюро Лібава-Роменскай чыгункі. Наведваў тэатры і нават хадзіў на паляванне, што давала падставу чутках пра тое, што ён сімуляваў болезнь.Умер Іван Неслухоўскі ў 1897 годзе, пахаваны на Кальварыйскіх могілках Мінска побач з жонкай."
+          }
+        },
+        "works":{  
+          "firstBlock": "<span> Вершы </span> Браце мой і таварыш!<br> Серэнада<br> I як строй дамоў сталічных бачу<br> Пэўна ў сэрцы ёсць хвароба<br> Не ради славы иль расчета",
+          "secondBlock":"<span> Нарысы </span> Старасць не радасць<br>З крывавых дзён<br>Кушалеў i яго лiберальныя погляды<br>Са святочнай паездкi",
+          "thirdBlock":"<span> Лiсты </span> Да П. В. Шэйна<br> Да З. Пшасмыцкага <br>Да М. В. Доўнар-Запольскага",
+          "fourthBlock":"<span> Наследованнi </span> Адам Аснык <br> Не я пяю - народ божы... <br> Надта салодкiя думкi<br> Бусел <br> Ямшчык<br>Горсць "
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"tgfp3k9hYzQ",
+        "map":"https://maps.google.com/maps?q=minsk&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+    "tank":{
+        "menu": {
+        "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
+        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
+        },
+       "photo":[
+           "tank.jpg"
+       ],
+       "name":{  
+          "rus":"Максим Танк",
+          "eng":"Maksim Tank",
+          "bel":"Максiм Танк"
+       },
+       "quote":{  
+          "rus":"Однажды я спросил у человека, Который прошёл через огонь, Воду и медные трубы: — Что самое сложное на этом свете?И он сказал: — Пройти через верность.",
+          "eng":"Once I asked a man who passed through fire, Water and copper pipes: “What is the most difficult thing in this world? And he said:“ Go through loyalty.",
+          "bel": "Аднойчы я спытаў у чалавека, Які прайшоў праз агонь, Ваду і медныя трубы: - Што самае складанае на гэтым свеце? І ён сказаў: - Прайсці праз вернасць."
+       },
+       "biography":{  
+          "firstData":"1912-1934",
+          "firstText":{  
+             "rus":"Родился Евгений 17 сентября 1912 года в селе Пильковщина Белоруссии. Затем участвовал в революции в Западной Белоруссии. В биографии Максима Танка всегда активно выражалась гражданская позиция. За это он был арестован в 1933, а также в 1934 годах.",
+             "eng":"Yevgeny was born on September 17, 1912 in the village of Pilkovschina in Belarus. Then he participated in the revolution in Western Belarus. In the biography of Maxim Tank, civil position was always actively expressed. For this, he was arrested in 1933, as well as in 1934.",
+             "bel":"Нарадзіўся Яўген 17 верасня 1912 года ў вёсцы Пильковщина Беларусі. Затым удзельнічаў у рэвалюцыі ў Заходняй Беларусі. У біяграфіі Максіма Танка заўсёды актыўна выказвалася грамадзянская пазіцыя. За гэта ён быў арыштаваны ў 1933, а таксама ў 1934 гадах."
+          },
+          "secondData":"1934-1943",
+          "secondText":{  
+             "rus":"Первый опубликованный сборник стихотворений в биографии М. Танка вышел в 1936 году – «На этапах». За ним последовал сборник «Клюквенный цвет» в 1937, затем «Под мачтой» в 1938. Во всех этих книгах поэт поддерживал борьбу народа за освобождение родной земли.",
+             "eng":"The first published collection of poems in the biography of M. Tank was published in 1936 - “At the stages”. It was followed by the collection “Cranberry Blossom” in 1937, then “Under the Mast” in 1938. In all these books, the poet supported the people's struggle for the liberation of their native land.",
+             "bel":"Першы апублікаваны зборнік вершаў у біяграфіі М. Танка выйшаў у 1936 годзе - На этапах. За ім рушыў услед зборнік «Журавінавы цвет» ў 1937, затым «Пад мачтай» у 1938. Ва ўсіх гэтых кнігах паэт падтрымліваў барацьбу народа за вызваленне роднай зямлі."
+          },
+          "thirdData":"1943-1945",
+          "thirdText":{  
+             "rus":"Танк был корреспондентом в газете «Вилейская правда», а в годы Великой Отечественной войны работал в печати. Даже в военные времена в биографии Танка писательская деятельность не была оставлена. В 1942 году он написал поэму «Янук Сялиба», а в 1945 создал два сборника стихотворений. ",
+             "eng":"Tank was a correspondent in the newspaper Vileyskaya Pravda, and during the years of the Great Patriotic War, he worked in print. Even in wartime in the biography of Tanka, writing was not abandoned. In 1942, he wrote the poem “Yanuka Sialib”, and in 1945 he created two collections of poems.",
+             "bel":"Танк быў карэспандэнтам у газеце «Вілейская праўда», а ў гады Вялікай Айчыннай вайны працаваў у друку. Нават у ваенныя часы ў біяграфіі Танка пісьменніцкая дзейнасць не была пакінута. У 1942 годзе ён напісаў паэму «Янук Сялиба», а ў 1945 стварыў два зборнікі вершаў."
+          },
+          "fourthData":"1945-1966",
+          "fourthText":{  
+             "rus":"Когда закончилась война, Танк стал работать в журнале «Вожык» редактором, а позже – главным редактором (с 1948 по 1966) в журнале «Полымя».За полную биографию Танка было создано множество книг, поэм, сборников",
+             "eng":"When the war ended, Tank began to work in the magazine “Vozhik” as an editor, and later - as an editor-in-chief (from 1948 to 1966) in the magazine “Polymya.” For the full biography of Tank, many books, poems,",
+             "bel":"Калі скончылася вайна, Танк стаў працаваць у часопісе «Вожык» рэдактарам, а пазней - галоўным рэдактарам (з 1948 па 1966) у часопісе Полымя .За поўную біяграфію Танка было створана мноства кніг, паэм, зборнікаў."
+          },
+          "fivethData":"1966-1995",
+          "fivethText":{  
+             "rus":"В 1948 году получил Сталинскую премию, в 1978 – Ленинскую, а в 1968 – звание Народного поэта Белоруссии. Максим Танк умер в Минске 7 августа 1995 года. Похоронен в родном селе",
+             "eng":"In 1948 he was awarded the Stalin Prize in 1978 - Lenin, d 1968 - the title of People's Poet of Belarus. Maxim Tank died in Minsk on August 7, 1995. Buried in his native village",
+             "bel":"У 1948 г. атрымаў Сталінскую прэмію, у 1978 - Ленінскую, а ў 1968 - званне Народнага паэта Беларусі. Максім Танк памёр у Менску 7 жніўня 1995 года. Пахаваны ў роднай вёсцы."
+          }
+        },
+        "works":{  
+          "firstBlock": "<span> Книги поэзии </span>  «На этапах»<br> «Журавінавы цвет»<br> «Пад мачтай»<br> «Выбраныя вершы» (1940)<br> «Вастрыце зброю» (1945)",
+          "secondBlock":"<span> Книги поэзии </span> «Праз вогненны небасхіл» (1945) <br> «Выбраныя вершы»<br> «Вершы»<br> «Каб ведалі» (1948)",
+          "thirdBlock":"<span>  Книги поэзии </span>  «На камні, жалезе і золаце»<br> «Выбраныя творы» (1954)<br> «У дарозе» (1954)<br> «След бліскавіцы» (1957)<br>",
+          "fourthBlock":"<span> Книги поэзии </span> «Лірыка» (1963)<br> «Глыток вады» (1964)<br> «Вершы» (1967)<br> «Ключ жураўліны» (1972)<br> «Хай будзе святло» (1972)"
+       },
+         "images":[
+            "one.jpg",
+            "two.jpg",
+            "three.jpg",
+            "four.jpg",
+            "five.jpg",
+            "six.jpg",
+            "seven.jpg",
+            "eight.jpg",
+            "nine.jpg",
+            "ten.jpg"
+
+        ],
+        "video":"40Uhtifsk7s",
+        "map":"https://maps.google.com/maps?q=%D0%BC%D1%8F%D0%B4%D0%B5%D0%BB%D1%8C&t=&z=13&ie=UTF8&iwloc=&output=embed"
     }
-   
    
  }

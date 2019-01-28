@@ -85,38 +85,27 @@ export function getTemplate(poet){
   </section>
 
   <a name="gallery"></a>
-  <section class="main__slider-container"> 
-  <div class="main__slider">
-    <img src="assets/${poet}/${poets[poet].images[0]}">
-  </div>
-  <div class="main__slider">
-    <img src="assets/${poet}/${poets[poet].images[1]}">
-  </div>
-  <div class="main__slider"> 
-  <img src="assets/${poet}/${poets[poet].images[2]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[3]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[4]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[5]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[6]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[7]}">
-  </div>
-  <div class="main__slider">
-  <img src="assets/${poet}/${poets[poet].images[8]}">
-  </div>
-  <div class="main__slider ten">
-  <img src="assets/${poet}/${poets[poet].images[9]}">
+  <section id="image_container" class="image_container"> 
+    <img src="assets/${poet}/${poets[poet].images[0]}" data-bp="assets/${poet}/${poets[poet].images[0]}" class="image_container_item">
+  
+    <img src="assets/${poet}/${poets[poet].images[1]}" data-bp="assets/${poet}/${poets[poet].images[1]}" class="image_container_item">
+  
+  <img src="assets/${poet}/${poets[poet].images[2]}" data-bp="assets/${poet}/${poets[poet].images[2]}" class="image_container_item">
+ 
+  <img src="assets/${poet}/${poets[poet].images[3]}" data-bp="assets/${poet}/${poets[poet].images[3]}" class="image_container_item">
 
-  </div>
+  <img src="assets/${poet}/${poets[poet].images[4]}" data-bp="assets/${poet}/${poets[poet].images[4]}" class="image_container_item">
+ 
+  <img src="assets/${poet}/${poets[poet].images[5]}" data-bp="assets/${poet}/${poets[poet].images[5]}" class="image_container_item">
+ 
+  <img src="assets/${poet}/${poets[poet].images[6]}" data-bp="assets/${poet}/${poets[poet].images[6]}" class="image_container_item">
+
+  <img src="assets/${poet}/${poets[poet].images[7]}" data-bp="assets/${poet}/${poets[poet].images[7]}" class="image_container_item">
+
+  <img src="assets/${poet}/${poets[poet].images[8]}" data-bp="assets/${poet}/${poets[poet].images[8]}" class="image_container_item">
+
+  <img src="assets/${poet}/${poets[poet].images[9]}" data-bp="assets/${poet}/${poets[poet].images[9]}" class="image_container_item">
+
   </section>
 
   <section class="main__books">
@@ -140,7 +129,7 @@ export function getTemplate(poet){
 
   <section class="main__video">
   <a name="video"></a>
-    <img id="youtube" src="assets/${poet}/${poets[poet].images[8]}" ytsrc="${poets[poet].video}">
+    <img class="youtube" src="assets/${poet}/${poets[poet].images[8]}" ytsrc="${poets[poet].video}">
     
   </section>
 
