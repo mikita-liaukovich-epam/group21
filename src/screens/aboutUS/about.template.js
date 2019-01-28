@@ -11,11 +11,11 @@ export default { eng: `
             <h4>Junior Front-end Developer</h4>
             <p class = "user-text">«Для меня этот проект стал новым толчком в развитии. Именно так нам в будущем придётся работать, и опыт тимлидинга, рефакторинга своего и чужого кода, а также координации действий - бесценен.»</p>
             <p class = "user-social">
-              <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
+              <a href="http://vk.com/babuji0h" class="link-social"><span></span></a>
+              <a href="http://github.com/nicklevkovich" class="link-social"><span></span></a>
+              <a href="skype: terraflip24" class="link-social"><span></span></a>
+              <a href="http://nicklevkovich.h1n.ru" class="link-social"><span></span></a>
+              <a href="mailto: nicklevkovic@gmail.com" class="link-social"><span></span></a>
             </p>
           </div>
         </div>

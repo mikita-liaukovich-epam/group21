@@ -4,7 +4,7 @@ const translates = {
     logo: 'Poets of Belarus',
     lang: ['English language', 'Belarussian language', 'Russian language'],
     nav: ['List of Poets', 'About Project', 'Author of the Day', 'Contacts', 'Search'],
-    about: 'Text',
+    about: 'Welcome to the poets of Belarus. This site is dedicated to cultural figures of Belarus, or rather, to poets. Here you can find biographies of poets, lists of their works, a photo gallery and videos related to their life and time in which they lived. You can also use a map on which the main places of poets are marked. You can view a list of all poets available in our database or use the search. Below is the author of the day of our project. You can contact us on the Contacts page via Vkontakte, Skype or email. We always welcome your wishes and suggestions! This project was implemented as a codejam task for the Rolling Scopes School. All project code is our intellectual property and can be used in other projects only with the personal permission of the authors.',
     author: {
       brovka: '',
       dunin: '',
@@ -19,7 +19,7 @@ const translates = {
     logo: 'Поэты Беларуси',
     lang: ['Английский язык', 'Белорусский язык', 'Русский язык'],
     nav: ['Список поэтов', 'О проекте', 'Автор дня', 'Контакты', 'Поиск'],
-    about: 'Текст',
+    about: 'Добро пожаловать на Poets of Belarus. Данный сайт посвящён деятелям культуры Беларуси, а точнее, - поэтам. Здесь вы можете найти биографии поэтов, списки их произведений, фотогалерею и видео, связанные с их жизнью и временем, в котором они жили. Также вы можете воспользоваться картой, на которой отмечены места основной деятельности поэтов. Вы можете просмотреть список всех имеющихся в нашей базе данных поэтов или воспользоваться поиском. Ниже представлен автор дня нашего проекта. Связаться с нами можете на странице Контакты через Вконтакте, скайп или электронную почту. Мы всегда рады вашим пожеланиям и предложениям! Данный проект был выполнен в качестве кодджем таска для the Rolling Scopes School.',
     author: {
       brovka: '',
       dunin: '',
@@ -34,7 +34,7 @@ const translates = {
     logo: 'Паэты Беларусі',
     lang: ['Англійская мова', 'Беларуская мова', 'Руская мова'],
     nav: ['Спіс паэтаў', 'Аб праекце', 'Аўтар дня', 'Кантакты', 'Пошук'],
-    about: 'Тэкст',
+    about: `Сардэчна запрашаем на Poets of Belarus. Дадзены сайт прысвечаны дзеячам культуры Беларусі, а дакладней, - паэтам. Тут вы можаце знайсці біяграфіі паэтаў, спісы іх твораў, фотагалерэю і відэа, звязаныя з іх жыццём і часам, у якім яны жылі. Таксама вы можаце скарыстацца картай, на якой пазначаныя месцы асноўнай дзейнасці паэтаў. Вы можаце праглядзець спіс усіх наяўных у нашай базе дадзеных паэтаў або скарыстацца пошукам. Ніжэй прадстаўлены аўтар дня нашага праекта. Звязацца з намі можаце на старонцы Кантакты праз Вконтакте, скайп ці электронную пошту. Мы заўсёды рады вашым пажаданням і прапановам! Дадзены праект быў выкананы ў якасці кодджем цягаючы для the Rolling Scopes School.`,
     author: {
       brovka: '',
       dunin: '',
