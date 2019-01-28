@@ -1,5 +1,6 @@
 import { $$, inner, remove, sleep } from '../../utils';
 import template from './main.template';
+import {addPoetsLinks} from '../../screens/poets/poets';
 import './main.css';
 
 const poetsSearch = [['Петрусь Бровка', 'brovka'], ['Викентий Дунин-Марцинкевич', 'dunin'], ['Владимир Короткевич', 'korotkevich'], ['Якуб Колас', 'kolas'], ['Янка Купала', 'kupala'], ['Янка Лучина', 'luchina'], ['Максим Танк', 'tank']]
@@ -11,7 +12,7 @@ const repeat = function repeat() {
   $$('.autocomplite ul').innerHTML = '';
   poetsSearch.forEach(element => {
     if (element[0].toUpperCase().includes($$('.search-string').value.toUpperCase())) {
-      inner($$('.autocomplite ul'), `<li><a data-name='${element[1]}'>${element[0]}</a></li>`)
+      inner($$('.autocomplite ul'), `<li><a href="#" data-name='${element[1]}'>${element[0]}</a></li>`)
     }
   });
   });
