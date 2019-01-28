@@ -9,7 +9,7 @@ $$('body').addEventListener('click', e => {
     addClass($$('.logo'), 'logo-anim-to-top');
     sleep(200).then(() => {
       $$('body').innerHTML = '';
-      inner($$('body'), template);
+      inner($$('body'), template[localStorage.getItem('currLang')]);
     });
   }
 });
