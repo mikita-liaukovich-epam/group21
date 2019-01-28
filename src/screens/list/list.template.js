@@ -1,6 +1,6 @@
 export default `
 <div class="lists-container">
-  <img src='./assets/logo/Logo-min.png' class="logotype"></div>
+  <img src='./assets/logo/logo.png' class="logotype"></div>
   <main class = 'content'>
   <a class = "close"> &#10006;</a>
   <section class = 'list'>

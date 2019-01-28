@@ -44,6 +44,11 @@ h1 {
   top: 164px;
 }
 
+.logo-anim-to-top {
+  top: 20px;
+  transition: 0.2s;
+}
+
 .buttons-wrapper {
   position: absolute;
   width: 701px;
