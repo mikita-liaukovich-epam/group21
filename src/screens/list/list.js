@@ -1,5 +1,5 @@
 import BigPicture from 'bigpicture';
-import { $$, inner } from '../../utils';
+import { $$, addClass, inner, sleep } from '../../utils';
 import template from './list.template';
 import templateMain from '../main/main.template';
 import './list.css';
@@ -8,12 +8,18 @@ $$('body').addEventListener('click', e => {
   const el = e.target;
   const elClass = el.getAttribute('class');
   if (elClass === 'main-button left') {
-    $$('body').innerHTML = '';
-    inner($$('body'), template);
+    addClass($$('.logo'), 'logo-anim-to-top');
+    sleep(200).then(() => {
+      $$('body').innerHTML = '';
+      inner($$('body'), template);
+    });
   }
   if (elClass === 'close') {
-    $$('body').innerHTML = '';
-    inner($$('body'), templateMain);
+    addClass($$('.logotype'), 'logo-anim-to-bottom');
+    sleep(200).then(() => {
+      $$('body').innerHTML = '';
+      inner($$('body'), templateMain);
+    });
   }
   if (elClass === 'list-poets') {
     $$('body').innerHTML = '';

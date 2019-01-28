@@ -9,11 +9,6 @@ export const append = (parent, child) => (parent.appendChild(child), parent);
 export const create = el => document.createElement(el);
 export const getByClass = el => document.getElementsByClassName(el);
 export const inner = (el, text) => (el.innerHTML += text, el);
-export const pause = time => new Promise(resolve => {
-  setTimeout(() => {
-    resolve();
-  }, time);
-});
 export const remove = (parent, child) => (parent.removeChild(child), parent);
 export const setId = (el, newId) => (el.id = newId, el);
 export const sleep = milliseconds => new Promise(resolve => setTimeout(resolve, milliseconds))
