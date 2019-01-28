@@ -58,7 +58,7 @@ bel: `
     <section class = 'list'>
       <h3>К</h3>
       <ul class="first">
-        <li><a href="#" class="poets-name" data-name="korotkevich">Уладзімір Сямёнавіч Караткевіч</a></li>
+        <li><a href="#" class="poets-name" data-name="korotkevich">Уладзімір Караткевіч</a></li>
         <li><a href="#" class="poets-name" data-name="kolas">Якуб Колас</a></li>
         <li><a href="#" class="poets-name" data-name="kupala">Янка Купала</a></li>
       </ul>

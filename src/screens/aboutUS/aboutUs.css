@@ -94,7 +94,7 @@
   height: 40px;
 }
 .link-social:nth-child(1){
-  background: url('..assets/developer/vk.png') no-repeat 0 7px;
+  background: url('./assets/developer/vk.png') no-repeat 0 7px;
   background-size: 180px;
 }
 .link-social:nth-child(2){

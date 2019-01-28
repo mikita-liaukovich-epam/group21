@@ -1,7 +1,6 @@
-import { $$, inner, remove } from '../../utils';
-import poets from "./poets.json";
-import { getTemplate  } from './poets.template';
-import templateMain from '../main/main.template';
+import { $$, inner } from '../../utils';
+import { getTemplate } from './poets.template';
+import { mainBody } from '../main/main.template';
 import './poets.css';
 
 $$('body').addEventListener('click', e => {
@@ -9,14 +8,14 @@ $$('body').addEventListener('click', e => {
   const elClass = el.getAttribute('class');
   if (elClass === 'home') {
     $$('body').innerHTML = '';
-    inner($$('body'), templateMain);
+    inner($$('body'), mainBody());
   }
 });
 
-function showPoet(name){
+const showPoet = function showPoet(name) {
   $$('body').innerHTML = getTemplate(name);
 }
 
-export function addPoetsLinks() {
-  $$('.content').addEventListener('click', (e) => {showPoet(e.target.dataset.name)})
+export const addPoetsLinks = function addPoetsLinks() {
+  $$('.content').addEventListener('click', e => { showPoet(e.target.dataset.name) })
 }
