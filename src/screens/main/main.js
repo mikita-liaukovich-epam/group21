@@ -26,6 +26,8 @@ $$('.search-string').onfocus = () => {
     $$('.autocomplite').style.display = 'block';
   });
 }
+localStorage.setItem('currLang', 'eng');
+
 
 $$('.search-string').onblur = () => {
   $$('.search-pic').style.zIndex = '-8';
@@ -39,6 +41,32 @@ $$('.active-lang').onclick = () => {
   $$('.languages').style.display = 'block';
 };
 
+$$('.eng').onclick = event => {
+  const target = event.target;
+  remove($$('.languages'), $$('.eng'));
+  $$('.languages').insertBefore(target, $$('.languages img'));
+  $$('.active-lang').src = './assets/ENG.png';
+  $$('.languages').style.display = 'none';
+  localStorage.setItem('currLang', 'eng');
+};
+
+$$('.bel').onclick = event => {
+  const target = event.target;
+  remove($$('.languages'), $$('.bel'));
+  $$('.languages').insertBefore(target, $$('.languages img'));
+  $$('.active-lang').src = './assets/BEL.png';
+  $$('.languages').style.display = 'none';
+  localStorage.setItem('currLang', 'bel');
+};
+
+$$('.rus').onclick = event => {
+  const target = event.target;
+  remove($$('.languages'), $$('.rus'));
+  $$('.languages').insertBefore(target, $$('.languages img'));
+  $$('.active-lang').src = './assets/RUS.png';
+  $$('.languages').style.display = 'none';
+  localStorage.setItem('currLang', 'rus');
+};
 $$('.languages').onclick = event => {
   if (event.target.src !== $$('.active-lang').src) {
     remove($$('.languages'), event.target);
