@@ -1,19 +1,10 @@
 import poets from "./poets.json";
 
-// export function showModalVideo(poet){
-//   let modal = document.body.querySelector('.modal');
-//   modal.style.display = "flex";
-//   modal.innerHTML = `
-//     <div class="close_modal" onclick="this.parentNode.style.display='none';this.parentNode.innerHTML=''"></div>
-//     <iframe src="${poets[poet].video}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-//   `
-// }
-
 export function getTemplate(poet){
   let lang = localStorage.getItem('currLang') || 'rus';
   return `<nav class="header__menu-container">
   <ul class="header__menu">
-    <li> <a> ${poets[poet].menu[lang][0]}  </a> </li>
+    <li> <a class="home"> ${poets[poet].menu[lang][0]}  </a> </li>
     <li> <a href="#biography"> ${poets[poet].menu[lang][1]}  </a> </li>
     <li> <a href="#gallery"> ${poets[poet].menu[lang][2]}</a> </li>
     <li> <a href="#works"> ${poets[poet].menu[lang][3]}</a> </li>
@@ -129,7 +120,7 @@ export function getTemplate(poet){
 
   <section class="main__video">
   <a name="video"></a>
-    <img class="youtube" src="assets/${poet}/${poets[poet].images[8]}" ytsrc="${poets[poet].video}">
+    <img class="youtube" src="assets/video.png" ytsrc="${poets[poet].video}">
     
   </section>
 

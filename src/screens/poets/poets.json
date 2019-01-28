@@ -2,7 +2,7 @@
     "kolas":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -76,7 +76,7 @@
     "kupala":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -149,7 +149,7 @@
     "korotkevich":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -222,7 +222,7 @@
     "brovka":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -295,7 +295,7 @@
     "dunin":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -368,7 +368,7 @@
     "luchina":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[
@@ -441,7 +441,7 @@
     "tank":{
         "menu": {
         "rus":["Главная", "Биография", "Галерея", "Творчество", "Видео"],
-        "eng":["Home", "Biography", "Gallery", "Creativity", "Video "],
+        "eng":["Home", "Biography", "Gallery", "Works", "Video "],
         "bel":["Гaлоуная", "Бiяграфiя", "Галерэя", "Творчасць", "Вiдэа"]
         },
        "photo":[

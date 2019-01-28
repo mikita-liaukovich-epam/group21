@@ -32,12 +32,8 @@ h1 {
   content: '';
   width: 100vw;
   height: 100%;
-<<<<<<< HEAD
-  background: url(./assets/logo/bg.png);
-=======
   max-height: 1080px;
-  background: url(../../assets/backgrounds/bg.png);
->>>>>>> dev
+  background: url(assets/backgrounds/bg.png);
   opacity: 0.2;
   z-index: -99;
 }
@@ -105,10 +101,8 @@ h1 {
 
 .search-string:focus {
   width: 700px;
-
   background: white;
   padding-left: 20px;
-
   -webkit-transition: 0.8s ease-in-out;
   -moz-transition: 0.8s ease-in-out;
   -o-transition: 0.8s ease-in-out;

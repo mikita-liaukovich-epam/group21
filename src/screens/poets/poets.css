@@ -12,11 +12,10 @@ background-color: #f2eee9;
 transition: all 1s;
 }
 
-
 .header__poet{
-position: relative;
-width: 80%;
-margin: 30px auto;
+    position: relative;
+    width: 80%;
+    margin: 30px auto;
 }
 
 .header__photo {
@@ -27,8 +26,8 @@ margin: 30px auto;
     width: 400px;
     height: 400px;
     object-fit: cover;
+    margin-top: 50px;
 }
-
 
 .header__menu {
     position: absolute;
@@ -37,7 +36,7 @@ margin: 30px auto;
     top: 0;
     position: fixed;
     padding: 30px 50px;
-   
+    z-index: 100;
 }
 
 .header__menu li {
@@ -89,6 +88,7 @@ margin: 30px auto;
     width: 350px;
     font-size: 50px;
     font-weight: bold;
+    padding-left: 20px;
 }
 
 .header__poet-quote {
@@ -257,7 +257,10 @@ margin: 30px auto;
     cursor: pointer;
 }
 
-
+.youtube {
+    width: 105%;
+    margin: 0 auto;
+}
 
 .main__books {
     width: 100%;
@@ -313,6 +316,29 @@ margin: 30px auto;
     border: 0;
 }
 
+@media (max-width: 1200px) {
+    .header__photo img {
+        width: 235px;
+        height: 265px;
+    }
+    .header__poet-name {
+        font-size: 20px;
+        padding-left: 40px;
+    }
+    .header__poet-quote {
+        font-size: 15px;
+    }
+    .image_container {
+        min-height: 300px;
+    }
 
+    .image_container img {
+        width: 150px;
+        height: 150px;
+    }
 
-
+    .main__books div {
+        width: 212px;
+        font-size: 14px;
+    }
+}

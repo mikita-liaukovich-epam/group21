@@ -6,40 +6,26 @@ export default `
   <section class = 'list'>
       <h3>Б</h3>
       <ul class="first">
-<<<<<<< HEAD:src/screens/list/main_kir.template.js
-        <li><a href="#" class="poets-name" data-name="brovka">Бровка Пётр Устинович</a></li>
-=======
-        <li><a href="" class="poets-name">Петрусь Бровка</a></li>
-        <li><a href="" class="poets-name">Максим Богданович</a></li>
-        <li><a href="" class="poets-name">Змитрок Бядуля</a></li>
-        <li><a href="" class="poets-name">Ян Барщевский</a></li>
->>>>>>> dev:src/screens/list/list.template.js
+        <li><a href="#" class="poets-name" data-name="brovka" >Петрусь Бровка</a></li>
+        <li><a href="#" class="poets-name">Максим Богданович</a></li>
+        <li><a href="#" class="poets-name">Змитрок Бядуля</a></li>
+        <li><a href="#" class="poets-name">Ян Барщевский</a></li>
       </ul>
     </section>
     <section class = 'list'>
       <h3>Д</h3>
       <ul class="first">
-<<<<<<< HEAD:src/screens/list/main_kir.template.js
-        <li><a href="#" class="poets-name" data-name="dunin">Дунин-Марцинкевич Викентий Иванович</a></li>
-=======
-        <li><a href="" class="poets-name">Викентий Дунин-Марцинкевич</a></li>
-        <li><a href="" class="poets-name">Владимир Дубовка</a></li>
-        <li><a href="" class="poets-name">Алесь Дудар</a></li>
->>>>>>> dev:src/screens/list/list.template.js
+        <li><a href="#" class="poets-name" data-name="dunin">Викентий Дунин-Марцинкевич</a></li>
+        <li><a href="#" class="poets-name">Владимир Дубовка</a></li>
+        <li><a href="#" class="poets-name">Алесь Дудар</a></li>
       </ul>
     </section>
     <section class = 'list'>
       <h3>К</h3>
       <ul class="first">
-<<<<<<< HEAD:src/screens/list/main_kir.template.js
-        <li><a href="#" class="poets-name" data-name="korotkevich">Короткевич Владимир Семёнович</a></li>
+        <li><a href="#" class="poets-name" data-name="korotkevich">Владимир Короткевич</a></li>
         <li><a href="#" class="poets-name" data-name="kolas">Якуб Колас</a></li>
         <li><a href="#" class="poets-name" data-name="kupala">Янка Купала</a></li>
-=======
-        <li><a href="" class="poets-name">Владимир Короткевич</a></li>
-        <li><a href="" class="poets-name">Якуб Колас</a></li>
-        <li><a href="" class="poets-name">Янка Купала</a></li>
->>>>>>> dev:src/screens/list/list.template.js
       </ul>
     </section>
     <section class = 'list'>
