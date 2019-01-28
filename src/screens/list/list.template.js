@@ -1,16 +1,4 @@
 export default `
-<img src="./assets/ENG.png" alt="Language" class="active-lang">
-      <div class="languages">
-        <img src="./assets/lang/ENG.png" alt="English language" class="eng">
-        <img src="./assets/lang/BEL.png" alt="Belarussian language" class="bel">
-        <img src="./assets/lang/RUS.png" alt="Russian language" class="rus">
-      </div>
-      <nav>
-          <a class='list-poets'>List of poets</a>
-          <a href="#about">About Us</a>
-          <a href="#author-of-the-day">Author of the Day</a>
-          <a href="#">Contacts</a>
-        </nav>
 <div class="lists-container">
   <img src='./assets/logo/Logo-min.png' class="logotype"></div>
   <main class = 'content'>
