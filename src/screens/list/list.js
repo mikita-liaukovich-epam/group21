@@ -1,28 +1,39 @@
 import BigPicture from 'bigpicture';
-import { $$, inner } from '../../utils';
+import { $$, addClass, inner, sleep } from '../../utils';
 import template from './list.template';
-import templateMain from '../main/main.template';
+import { mainBody } from '../main/main.template';
 import './list.css';
+import { addPoetsLinks } from '../poets/poets';
 
 $$('body').addEventListener('click', e => {
   const el = e.target;
   const elClass = el.getAttribute('class');
-  if (elClass === 'main-button left') {
-    $$('body').innerHTML = '';
-    inner($$('body'), template);
-  }
   if (elClass === 'close') {
-    $$('body').innerHTML = '';
-    inner($$('body'), templateMain);
+    addClass($$('.logotype'), 'logo-anim-to-bottom');
+    sleep(200).then(() => {
+      $$('body').innerHTML = '';
+      inner($$('body'), mainBody());
+    });
   }
-  if (elClass === 'list-poets') {
-    $$('body').innerHTML = '';
-    inner($$('body'), template);
+  if (elClass === 'list-poets' || elClass === 'main-button left') {
+    addClass($$('.logo'), 'logo-anim-to-top');
+    sleep(200).then(() => {
+      $$('body').innerHTML = '';
+      inner($$('body'), template[localStorage.getItem('currLang')]);
+      addPoetsLinks();
+    });
   }
   if (elClass === 'youtube') {
     BigPicture({
       el: e.target,
       ytSrc: e.target.getAttribute('ytsrc'),
     });
+  }
+
+  if (elClass === 'image_container_item') {
+    BigPicture({
+      el: e.target,
+      gallery: '#image_container',
+    })
   }
 });

@@ -1,0 +1,130 @@
+@font-face{
+  font-family: "FA";
+  src: url('../../assets/fonts/fontawesome-webfont.ttf');
+}
+.user-body:before{
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 155%;
+  background: url(assets/backgrounds/bg.png);
+  opacity: 0.2;
+  z-index: -99;
+}
+.user-container{
+  position: relative;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.user-content{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 555px;
+  margin: 20px 0;
+}
+
+.user-content h3 {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.user-info {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.user-info h4 {
+  font-weight: 400;
+}
+
+.user-content:nth-child(3){
+  left: 500px;
+}
+.user-card{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  width: 500px;
+  height: 180px;
+  border: 2.5px solid black;
+  background-color: #fff;
+  padding: 10px;
+}
+.user-content:nth-child(3) .user-card{
+  flex-direction: row-reverse;
+  margin-right: -55px;
+}
+.user-foto{
+  box-sizing: border-box;
+  flex: 1;
+  border: 4px solid black;
+  height: 152px;
+  width: 147px;
+}
+.user-content:nth-child(2) .user-foto{
+  background-image: url('./assets/developer/Nick.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.user-content:nth-child(3) .user-foto{
+  background-image: url('./assets/developer/Katsiaryna.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.user-content:nth-child(4) .user-foto{
+  background-image: url('./assets/developer/kiryl.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.user-info{
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+.user-social{
+  width: 100%;
+  height: 25px;
+}
+.link-social{
+  display: inline-block;
+  width: 40px;
+  height: 25px;
+  color: #000;
+  text-decoration: none;
+}
+.link-social:hover{
+  color: blue;
+}
+.link-social:nth-child(1) span:after{
+  content: '\f189';
+  font-family: 'FA';
+  font-size: 25px;
+}
+.link-social:nth-child(2) span:before{
+  content: '\f09b';
+  font-family: "FA";
+  font-size: 25px;
+}
+.link-social:nth-child(3) span:before{
+  content: '\f17e';
+  font-family: "FA";
+  font-size: 25px;
+}
+.link-social:nth-child(4) span:before{
+  content: '\f0ac';
+  font-family: "FA";
+  font-size: 25px;
+}
+.link-social:nth-child(5) span:before{
+  content: '\f003';
+  font-family: "FA";
+  font-size: 25px;
+}
