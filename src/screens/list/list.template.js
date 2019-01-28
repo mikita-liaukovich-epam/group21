@@ -7,17 +7,12 @@ export default `
       <h3>Б</h3>
       <ul class="first">
         <li><a href="#" class="poets-name" data-name="brovka" >Петрусь Бровка</a></li>
-        <li><a href="#" class="poets-name">Максим Богданович</a></li>
-        <li><a href="#" class="poets-name">Змитрок Бядуля</a></li>
-        <li><a href="#" class="poets-name">Ян Барщевский</a></li>
       </ul>
     </section>
     <section class = 'list'>
       <h3>Д</h3>
       <ul class="first">
         <li><a href="#" class="poets-name" data-name="dunin">Викентий Дунин-Марцинкевич</a></li>
-        <li><a href="#" class="poets-name">Владимир Дубовка</a></li>
-        <li><a href="#" class="poets-name">Алесь Дудар</a></li>
       </ul>
     </section>
     <section class = 'list'>

@@ -1,8 +1,8 @@
 export default `
 <div class="lists-container">
-  <div class="logotype"></div>
+  <img src='./assets/developer/devs.png' class='logotype'>
   <main class = 'user-container'>
-    <a class = "close"> &#8592;Back</a>
+    <a class = "close"> &#10006;</a>
     <section class="user-content">
         <h3>Nick Levkovich</h3>
         <div class="user-card">
