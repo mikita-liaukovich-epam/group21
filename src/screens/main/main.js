@@ -1,5 +1,6 @@
 import { $$, inner, sleep } from '../../utils';
 import { mainBody } from './main.template';
+import { addPoetsLinks, showPoet } from '../poets/poets';
 import './main.css';
 window.onload = () => localStorage.setItem('currLang', 'eng');
 
@@ -11,34 +12,51 @@ export const poetsSearch = {
 
 inner($$('body'), mainBody());
 
-const repeat = function repeat() {
-  sleep(200).then(() => {
+const populateDropdown = function () {
   $$('.autocomplite ul').innerHTML = '';
   poetsSearch[localStorage.getItem('currLang')].forEach(element => {
     if (element[0].toUpperCase().includes($$('.search-string').value.toUpperCase())) {
-      inner($$('.autocomplite ul'), `<li><a data-name='${element[1]}'>${element[0]}</a></li>`)
-    }
-  });
-  });
+      inner($$('.autocomplite ul'), `<li><div class="search-poets-name" data-name="${element[1]}" >${element[0]}</div></li>`)
+      }
+    });
+  const links = document.querySelectorAll('.search-poets-name');
+  links.forEach(elem => {
+    elem.addEventListener('click', () => { showPoet(elem.dataset.name) })
+  })
 }
 
-let checkingInterval = null;
+
+$$('body').addEventListener('click', e => {
+  const el = e.target;
+  const elClass = el.getAttribute('class');
+
+  if (elClass === 'poets-name') {
+    addClass($$('.logo'), 'logo-anim-to-top');
+    sleep(200).then(() => {
+      $$('body').innerHTML = '';
+      inner($$('body'), template);
+      addPoetsLinks();
+    });
+  }
+});
+
 document.addEventListener('click', event => {
   if (event.target === $$('.search-string')) {
+    $$('.search-string').classList.add('focused');
     $$('.search-pic').style.opacity = '1';
     $$('.search-pic').style.zIndex = '0';
-    sleep(800).then(() => {
-      checkingInterval = setInterval(repeat, 100);
-    });
+    populateDropdown();
   }
 });
 
 
 $$('.search-string').onblur = () => {
-  $$('.search-pic').style.zIndex = '-8';
-  $$('.search-pic').style.opacity = '0';
-  $$('.search-string').value = '';
-  clearInterval(checkingInterval);
+  sleep(100).then(() => {
+    $$('.search-pic').style.zIndex = '-8';
+    $$('.search-pic').style.opacity = '0';
+    $$('.search-string').classList.remove('focused');
+    $$('.search-string').value = '';
+  })
 }
 
 document.addEventListener('click', event => {

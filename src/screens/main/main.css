@@ -104,7 +104,7 @@ h1 {
   opacity: 1;
 }
 
-.search-string:focus {
+.search-string.focused {
   width: 700px;
   background: white;
   padding-left: 20px;
@@ -114,7 +114,7 @@ h1 {
   transition: 0.8s ease-in-out;
 }
 
-.search-string:focus ~ .autocomplite {
+.search-string.focused ~ .autocomplite {
   display: block;
 }
 
@@ -140,12 +140,11 @@ h1 {
   margin: 5px auto;
 }
 
-.autocomplite li a {
-  color: black;
-  text-decoration: none;
+.autocomplite li div {
+  cursor: pointer;
 }
 
-.autocomplite li a:hover {
+.autocomplite li div:hover {
   text-decoration: underline;
 }
 
