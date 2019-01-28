@@ -9,7 +9,7 @@ export default { eng: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Junior Front-end Developer</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«Для меня этот проект стал новым толчком в развитии. Именно так нам в будущем придётся работать, и опыт тимлидинга, рефакторинга своего и чужого кода, а также координации действий - бесценен.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -26,7 +26,7 @@ export default { eng: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Junior Front-end Developer</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«При работе над проектом я получила навыки командной разработки: обсуждение структуры проекта, навыки разделения проекта на компоненты, более глубокое понимание работы с git. Был интересен опыт работы с чужим кодом.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -43,7 +43,7 @@ export default { eng: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Junior Front-end Developer</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«В ходе работы получил навыки командной работы, практику работы в общем репозитории Git. Получил опыт работы библиотеки BigPicture. Познакомился с плагинами и настройками вебпака.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -63,12 +63,12 @@ bel: `
   <main class = 'user-container'>
     <a class = "close"> &#10006;</a>
     <section class="user-content">
-        <h3>Мікалай Ляўковіч</h3>
+        <h3>Мiкiта Ляўковіч</h3>
         <div class="user-card">
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Малодшы Front-end распрацоўшчык</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«Для меня этот проект стал новым толчком в развитии. Именно так нам в будущем придётся работать, и опыт тимлидинга, рефакторинга своего и чужого кода, а также координации действий - бесценен.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -85,7 +85,7 @@ bel: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Малодшы Front-end распрацоўшчык</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«При работе над проектом я получила навыки командной разработки: обсуждение структуры проекта, навыки разделения проекта на компоненты, более глубокое понимание работы с git. Был интересен опыт работы с чужим кодом.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -102,7 +102,7 @@ bel: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Малодшы Front-end распрацоўшчык</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«В ходе работы получил навыки командной работы, практику работы в общем репозитории Git. Получил опыт работы библиотеки BigPicture. Познакомился с плагинами и настройками вебпака.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -122,12 +122,12 @@ rus: `
   <main class = 'user-container'>
     <a class = "close"> &#10006;</a>
     <section class="user-content">
-        <h3>Николай Левкович</h3>
+        <h3>Никита Левкович</h3>
         <div class="user-card">
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Младший Фронт-энд разработчик</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«Для меня этот проект стал новым толчком в развитии. Именно так нам в будущем придётся работать, и опыт тимлидинга, рефакторинга своего и чужого кода, а также координации действий - бесценен.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -144,7 +144,7 @@ rus: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Младший Фронт-энд разработчик</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«При работе над проектом я получила навыки командной разработки: обсуждение структуры проекта, навыки разделения проекта на компоненты, более глубокое понимание работы с git. Был интересен опыт работы с чужим кодом.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
@@ -161,7 +161,7 @@ rus: `
           <div class = "user-foto"></div>
           <div class = "user-info">
             <h4>Младший Фронт-энд разработчик</h4>
-            <p class = "user-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt»</p>
+            <p class = "user-text">«В ходе работы получил навыки командной работы, практику работы в общем репозитории Git. Получил опыт работы библиотеки BigPicture. Познакомился с плагинами и настройками вебпака.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
