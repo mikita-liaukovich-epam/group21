@@ -41,3 +41,11 @@ $$('.rus').onclick = event => {
   $$('.languages').style.display = 'none';
   localStorage.setItem('currLang', 'rus');
 };
+$$('.languages').onclick = event => {
+  if (event.target.src !== $$('.active-lang').src) {
+    remove($$('.languages'), event.target);
+    $$('.languages').insertBefore(event.target, $$('.languages img'));
+    $$('.active-lang').src = event.target.src;
+    $$('.languages').style.display = 'none';
+  } else $$('.languages').style.display = 'none';
+};

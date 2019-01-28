@@ -1,9 +1,13 @@
 import BigPicture from 'bigpicture';
 import { $$, inner } from '../../utils';
-import template from './main_kir.template';
+import template from './list.template';
 import templateMain from '../main/main.template';
+<<<<<<< HEAD:src/screens/list/main_kir.js
 import './main_kir.css';
 import { addPoetsLinks } from '../poets/poets';
+=======
+import './list.css';
+>>>>>>> dev:src/screens/list/list.js
 
 $$('body').addEventListener('click', e => {
   const el = e.target;
