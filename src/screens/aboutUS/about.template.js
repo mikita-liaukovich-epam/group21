@@ -28,8 +28,8 @@ export default { eng: `
             <h4>Junior Front-end Developer</h4>
             <p class = "user-text">«При работе над проектом я получила навыки командной разработки: обсуждение структуры проекта, навыки разделения проекта на компоненты, более глубокое понимание работы с git. Был интересен опыт работы с чужим кодом.»</p>
             <p class = "user-social">
-              <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
+              <a href="https://vk.com/id3807585" class="link-social"><span></span></a>
+              <a href="https://github.com/Catrieona" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
