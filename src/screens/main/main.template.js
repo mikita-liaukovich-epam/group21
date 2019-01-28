@@ -18,6 +18,10 @@ export default `
       <div class="buttons-wrapper">
         <button class='main-button left'>List of poets</button>
         <input type="text" class='main-button search-string' placeholder="Search">
+        <img src="./assets/search.png" alt="search" class="search-pic">
+        <div class="autocomplite">
+          <ul></ul>
+        </div>
       </div>
     </div>
   </section>
