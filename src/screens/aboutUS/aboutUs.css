@@ -36,6 +36,7 @@
 
 .user-info {
   font-weight: 400;
+  font-size: 14px;
 }
 
 .user-info h4 {
@@ -67,17 +68,17 @@
   width: 147px;
 }
 .user-content:nth-child(2) .user-foto{
-  background-image: url('../../../assets/developer/Nick.jpg');
+  background-image: url('./assets/developer/Nick.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .user-content:nth-child(3) .user-foto{
-  background-image: url('../../../assets/developer/Katsiaryna.jpg');
+  background-image: url('./assets/developer/Katsiaryna.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .user-content:nth-child(4) .user-foto{
-  background-image: url('../../../assets/developer/kiryl.jpg');
+  background-image: url('./assets/developer/kiryl.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }

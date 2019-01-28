@@ -1,7 +1,7 @@
 import BigPicture from 'bigpicture';
 import { $$, addClass, inner, sleep } from '../../utils';
 import template from './list.template';
-import templateMain from '../main/main.template';
+import { mainBody } from '../main/main.template';
 import './list.css';
 import { addPoetsLinks } from '../poets/poets';
 
@@ -12,7 +12,7 @@ $$('body').addEventListener('click', e => {
     addClass($$('.logotype'), 'logo-anim-to-bottom');
     sleep(200).then(() => {
       $$('body').innerHTML = '';
-      inner($$('body'), templateMain);
+      inner($$('body'), mainBody());
     });
   }
   if (elClass === 'list-poets' || elClass === 'main-button left') {

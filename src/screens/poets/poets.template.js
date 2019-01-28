@@ -1,7 +1,7 @@
 import poets from "./poets.json";
 
 export const getTemplate = function getTemplate(poet) {
-  let lang = localStorage.getItem('currLang') || 'rus';
+  const lang = localStorage.getItem('currLang') || 'rus';
   return `<nav class="header__menu-container">
   <ul class="header__menu">
     <li> <a class="home"> ${poets[poet].menu[lang][0]}  </a> </li>
