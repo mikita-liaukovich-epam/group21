@@ -1,3 +1,4 @@
+import BigPicture from 'bigpicture';
 import { $$, inner } from '../../utils';
 import template from './list.template';
 import templateMain from '../main/main.template';
@@ -17,5 +18,11 @@ $$('body').addEventListener('click', e => {
   if (elClass === 'list-poets') {
     $$('body').innerHTML = '';
     inner($$('body'), template);
+  }
+  if (elClass === 'youtube') {
+    BigPicture({
+      el: e.target,
+      ytSrc: e.target.getAttribute('ytsrc'),
+    });
   }
 });

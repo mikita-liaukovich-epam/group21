@@ -11,7 +11,7 @@ export default `
           <a class='list-poets'>List of poets</a>
           <a href="#about-us">About Us</a>
           <a href="#author-of-the-day">Author of the Day</a>
-          <a href="#">Contacts</a>
+          <a class="abouteUs">Contacts</a>
         </nav>
     <div class="container">
       <img src="./assets/logo/logo.png" alt="Poets of Belarus" class="logo">
