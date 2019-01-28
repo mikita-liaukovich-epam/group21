@@ -46,7 +46,7 @@ export default { eng: `
             <p class = "user-text">«В ходе работы получил навыки командной работы, практику работы в общем репозитории Git. Получил опыт работы библиотеки BigPicture. Познакомился с плагинами и настройками вебпака.»</p>
             <p class = "user-social">
               <a href="" class="link-social"><span></span></a>
-              <a href="" class="link-social"><span></span></a>
+              <a href="https://github.com/kir-22" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
               <a href="" class="link-social"><span></span></a>
