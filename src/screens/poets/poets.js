@@ -13,7 +13,7 @@ $$('body').addEventListener('click', e => {
   }
 });
 
-function showPoet(name){
+export function showPoet(name){
   $$('body').innerHTML = getTemplate(name);
 }
 
