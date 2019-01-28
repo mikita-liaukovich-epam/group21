@@ -1,7 +1,7 @@
 export default `
   <h1>Poets of Belarus</h1>
   <section class="first-page">
-  <img src="./assets/ENG.png" alt="Language" class="active-lang">
+  <img src="./assets/lang/ENG.png" alt="Language" class="active-lang">
       <div class="languages">
         <img src="./assets/lang/ENG.png" alt="English language" class="eng">
         <img src="./assets/lang/BEL.png" alt="Belarussian language" class="bel">
