@@ -10,6 +10,7 @@ html {
 body {
 background-color: #f2eee9;
 transition: all 1s;
+font-family: Segoe UI, sans-serif;
 }
 
 .header__poet{
@@ -126,17 +127,45 @@ transition: all 1s;
     border-left: 2px solid  #ad662b;
 }
 
+.main__timeline-block:nth-child(odd)::before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ad662b;
+    position: absolute;
+    top: -8px;
+    right: -4px;
+}
+
+
 .main__timeline-block:nth-child(even) {
     border-top: 2px solid #ad662b;
     border-right: 2px solid  #ad662b;
 }
 
+.main__timeline-block:nth-child(even)::before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ad662b;
+    position: absolute;
+    top: -10px;
+    left: -5px;
+}
+
+
 .timeline-block-year {
     position: absolute;
     color: #ad662b;
-    top: -50px;
+    top: -60px;
     font-size: 40px;
+    left: 26px;
+
 }
+
+
 
 .timeline-block-text {
     margin: 15px;
@@ -204,6 +233,7 @@ transition: all 1s;
     width: 285px;
     height: 300px;
     object-fit: cover;
+    transition: 0.5s;
 }
 
 /*
@@ -253,13 +283,16 @@ transition: all 1s;
 
 
 .image_container img:hover {
-    filter: brightness(0.7);
+    filter: brightness(0.5);
     cursor: pointer;
+    transform: scale(1.1, 1.1);
+
 }
 
 .youtube {
     width: 105%;
     margin: 0 auto;
+    cursor: pointer;
 }
 
 .main__books {
