@@ -45,6 +45,7 @@ document.addEventListener('click', event => {
     $$('.search-string').classList.add('focused');
     $$('.search-pic').style.opacity = '1';
     $$('.search-pic').style.zIndex = '0';
+    $$('.search-string').addEventListener('keyup', populateDropdown);
     populateDropdown();
   }
 });
@@ -54,6 +55,7 @@ $$('.search-string').onblur = () => {
   sleep(100).then(() => {
     $$('.search-pic').style.zIndex = '-8';
     $$('.search-pic').style.opacity = '0';
+    $$('.search-string').removeEventlistener('keyup', populateDropdown);
     $$('.search-string').classList.remove('focused');
     $$('.search-string').value = '';
   })
