@@ -25,7 +25,9 @@ export const getTemplate = function getTemplate(poet) {
 </header>
 
 <main>
-  <section class="main__timeline"> <a name="biography"></a>
+
+  <a name="biography"></a>
+  <section class="main__timeline"> 
   <div class=main__timeline-container>
       <div class="main__timeline-block">
           <div class="timeline-block-year">${poets[poet].biography.firstData}</div>
@@ -99,8 +101,8 @@ export const getTemplate = function getTemplate(poet) {
 
   </section>
 
+  <a name="works"></a>
   <section class="main__books">
-    <a name="works"></a>
     <div>
     ${poets[poet].works.firstBlock}
     </div>
@@ -118,8 +120,8 @@ export const getTemplate = function getTemplate(poet) {
     </div>
     </section>
 
-  <section class="main__video">
   <a name="video"></a>
+  <section class="main__video">
     <img class="youtube" src="assets/video.png" ytsrc="${poets[poet].video}">
 
   </section>
