@@ -88,9 +88,9 @@ export const mainBody = function mainBody() {
   <section class="first-page">
   <img src="./assets/lang/${lang}.png" alt="Language" class="active-lang">
       <div class="languages">
-        <img src="./assets/lang/ENG.png" alt="${translates[lang].lang[0]}" class="eng">
-        <img src="./assets/lang/BEL.png" alt="${translates[lang].lang[1]}" class="bel">
-        <img src="./assets/lang/RUS.png" alt="${translates[lang].lang[2]}" class="rus">
+        <img src="./assets/lang/eng.png" alt="${translates[lang].lang[0]}" class="eng">
+        <img src="./assets/lang/bel.png" alt="${translates[lang].lang[1]}" class="bel">
+        <img src="./assets/lang/rus.png" alt="${translates[lang].lang[2]}" class="rus">
       </div>
       <nav>
           <a class='list-poets'>${translates[lang].nav[0]}</a>
