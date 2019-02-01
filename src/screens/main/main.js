@@ -55,7 +55,7 @@ $$('.search-string').onblur = () => {
   sleep(100).then(() => {
     $$('.search-pic').style.zIndex = '-8';
     $$('.search-pic').style.opacity = '0';
-    $$('.search-string').removeEventlistener('keyup', populateDropdown);
+    // $$('.search-string').removeEventlistener('keyup', populateDropdown);
     $$('.search-string').classList.remove('focused');
     $$('.search-string').value = '';
   })
